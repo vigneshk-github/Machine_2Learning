@@ -1,0 +1,920 @@
+0,enrollee_id,city,city_development_index,gender,relevent_experience,enrolled_university,education_level,major_discipline,experience,company_size,company_type,last_new_job,training_hours
+1,29701,city_149,0.674,Male,No relevent experience,NaN,Phd,Humanities,20,<10,Pvt Ltd,1,188
+2,29702,city_76,0.758,Other,No relevent experience,NaN,Masters,Business Degree,6,<10,Public Sector,3,128
+3,29703,city_110,0.895,Other,Has relevent experience,Full time course,Graduate,Arts,10,NaN,Funded Startup,3,16
+4,29704,city_128,0.798,Male,No relevent experience,Full time course,Masters,Humanities,16,NaN,Public Sector,3,129
+5,29705,city_35,0.512,Female,Has relevent experience,no_enrollment,Masters,STEM,18,50-99,Pvt Ltd,1,36
+6,29706,city_64,0.837,Male,Has relevent experience,no_enrollment,Phd,NaN,20,100-500,Pvt Ltd,3,129
+7,29707,city_84,0.601,Male,Has relevent experience,Full time course,High School,Humanities,14,50-99,NaN,3,242
+8,29708,city_84,0.518,Female,Has relevent experience,no_enrollment,Masters,Humanities,7,<10,NaN,4,155
+9,29709,city_92,0.927,Other,Has relevent experience,NaN,Graduate,STEM,11,<10,NaN,4,67
+10,29710,city_108,0.61,Male,Has relevent experience,NaN,Phd,STEM,14,<10,Pvt Ltd,3,68
+11,29711,city_147,0.844,Male,No relevent experience,Part time course,Masters,STEM,3,50-99,NaN,3,298
+12,29712,city_137,0.592,NaN,No relevent experience,NaN,Graduate,Business Degree,15,<10,Funded Startup,2,284
+13,29713,city_115,0.923,NaN,No relevent experience,no_enrollment,Graduate,NaN,8,10-49,Pvt Ltd,1,100
+14,29714,city_6,0.681,NaN,No relevent experience,NaN,High School,NaN,2,<10,Public Sector,4,125
+15,29715,city_43,0.842,Female,No relevent experience,Full time course,Phd,Arts,6,50-99,Pvt Ltd,4,195
+16,29716,city_117,0.652,Other,No relevent experience,no_enrollment,Phd,STEM,18,10-49,NaN,4,292
+17,29717,city_100,0.545,Female,Has relevent experience,Part time course,Masters,Humanities,11,<10,Public Sector,1,12
+18,29718,city_115,0.51,NaN,No relevent experience,NaN,Phd,Humanities,16,100-500,Public Sector,1,102
+19,29719,city_5,0.657,Male,Has relevent experience,NaN,Masters,Humanities,13,<10,NaN,2,12
+20,29720,city_121,0.826,Male,No relevent experience,NaN,High School,Arts,8,NaN,Funded Startup,4,91
+21,29721,city_108,0.747,NaN,Has relevent experience,Full time course,High School,STEM,13,10-49,NaN,3,238
+22,29722,city_53,0.794,NaN,No relevent experience,Part time course,Graduate,Business Degree,20,10-49,NaN,4,182
+23,29723,city_66,0.778,Other,Has relevent experience,Part time course,Masters,Arts,18,100-500,NaN,1,10
+24,29724,city_64,0.608,NaN,Has relevent experience,Full time course,Graduate,Business Degree,4,50-99,Public Sector,2,252
+25,29725,city_138,0.852,Other,No relevent experience,no_enrollment,Masters,STEM,8,10-49,Funded Startup,1,254
+26,29726,city_72,0.83,Male,No relevent experience,Full time course,NaN,STEM,4,<10,Funded Startup,2,42
+27,29727,city_28,0.607,NaN,No relevent experience,no_enrollment,Graduate,Arts,3,10-49,Public Sector,2,209
+28,29728,city_69,0.854,NaN,No relevent experience,Part time course,Phd,Humanities,16,100-500,NaN,2,85
+29,29729,city_60,0.603,NaN,No relevent experience,NaN,Masters,NaN,14,50-99,Pvt Ltd,2,230
+30,29730,city_125,0.704,Female,No relevent experience,NaN,Masters,STEM,12,<10,NaN,2,298
+31,29731,city_64,0.536,Female,No relevent experience,Part time course,Masters,NaN,12,<10,Funded Startup,1,274
+32,29732,city_13,0.947,Female,No relevent experience,NaN,Graduate,Business Degree,19,50-99,Public Sector,4,265
+33,29733,city_139,0.948,Male,Has relevent experience,Part time course,High School,STEM,8,100-500,Funded Startup,2,294
+34,29734,city_117,0.66,NaN,No relevent experience,NaN,Masters,NaN,6,50-99,Pvt Ltd,3,187
+35,29735,city_126,0.837,Other,No relevent experience,no_enrollment,High School,STEM,17,10-49,Funded Startup,3,116
+36,29736,city_143,0.913,Female,Has relevent experience,Full time course,Masters,Humanities,2,10-49,Pvt Ltd,1,16
+37,29737,city_12,0.808,Female,No relevent experience,no_enrollment,Masters,Humanities,10,50-99,Public Sector,4,96
+38,29738,city_84,0.753,NaN,Has relevent experience,no_enrollment,High School,Humanities,9,100-500,Funded Startup,2,159
+39,29739,city_41,0.707,NaN,Has relevent experience,Full time course,NaN,Arts,18,<10,Public Sector,2,19
+40,29740,city_25,0.669,Male,Has relevent experience,no_enrollment,Graduate,Business Degree,19,100-500,Funded Startup,2,270
+41,29741,city_112,0.58,Other,Has relevent experience,no_enrollment,Phd,STEM,17,NaN,NaN,2,146
+42,29742,city_66,0.677,Other,No relevent experience,NaN,NaN,Arts,6,NaN,Pvt Ltd,2,91
+43,29743,city_86,0.907,Female,No relevent experience,no_enrollment,Phd,STEM,9,NaN,NaN,1,195
+44,29744,city_31,0.712,Female,No relevent experience,Part time course,Masters,STEM,4,10-49,Funded Startup,1,26
+45,29745,city_68,0.927,Other,No relevent experience,no_enrollment,NaN,NaN,5,50-99,Public Sector,1,36
+46,29746,city_141,0.676,NaN,Has relevent experience,Full time course,Phd,NaN,20,100-500,Pvt Ltd,3,227
+47,29747,city_29,0.543,NaN,No relevent experience,Part time course,NaN,Arts,14,NaN,Pvt Ltd,1,61
+48,29748,city_35,0.865,Female,Has relevent experience,Part time course,Masters,STEM,9,50-99,Public Sector,1,114
+49,29749,city_80,0.597,NaN,Has relevent experience,Part time course,NaN,STEM,1,NaN,NaN,2,165
+50,29750,city_112,0.68,Male,No relevent experience,Full time course,High School,Humanities,1,10-49,Pvt Ltd,1,36
+51,29751,city_42,0.61,NaN,Has relevent experience,NaN,Masters,STEM,4,100-500,Funded Startup,3,126
+52,29752,city_109,0.784,Female,No relevent experience,NaN,Graduate,Humanities,20,100-500,NaN,4,13
+53,29753,city_141,0.798,Male,Has relevent experience,Part time course,Graduate,Arts,2,NaN,NaN,2,71
+54,29754,city_112,0.935,Other,Has relevent experience,Full time course,Graduate,Arts,13,NaN,Pvt Ltd,2,208
+55,29755,city_122,0.544,NaN,No relevent experience,Part time course,High School,NaN,7,100-500,Funded Startup,4,71
+56,29756,city_30,0.931,Other,Has relevent experience,Part time course,Phd,Business Degree,11,10-49,NaN,3,86
+57,29757,city_96,0.506,NaN,No relevent experience,Full time course,Graduate,Humanities,13,10-49,Funded Startup,2,135
+58,29758,city_109,0.844,Other,Has relevent experience,no_enrollment,Graduate,NaN,10,<10,Pvt Ltd,1,41
+59,29759,city_113,0.752,Male,Has relevent experience,no_enrollment,NaN,Business Degree,4,<10,Public Sector,4,18
+60,29760,city_120,0.539,NaN,No relevent experience,NaN,High School,Business Degree,5,<10,NaN,3,21
+61,29761,city_112,0.523,NaN,No relevent experience,Full time course,NaN,STEM,17,100-500,Public Sector,3,114
+62,29762,city_72,0.908,Other,No relevent experience,Full time course,NaN,STEM,13,NaN,Pvt Ltd,3,52
+63,29763,city_99,0.598,Female,Has relevent experience,no_enrollment,Phd,NaN,16,50-99,NaN,1,111
+64,29764,city_25,0.911,Other,Has relevent experience,no_enrollment,Masters,Arts,15,10-49,Funded Startup,1,33
+65,29765,city_141,0.723,NaN,Has relevent experience,Full time course,Graduate,Arts,6,<10,NaN,2,39
+66,29766,city_110,0.665,Female,No relevent experience,no_enrollment,Phd,Business Degree,20,100-500,NaN,1,265
+67,29767,city_74,0.507,NaN,Has relevent experience,Full time course,High School,NaN,15,10-49,NaN,2,187
+68,29768,city_48,0.627,Male,No relevent experience,Part time course,Graduate,Business Degree,19,50-99,Public Sector,1,58
+69,29769,city_59,0.883,Female,Has relevent experience,no_enrollment,Masters,STEM,2,10-49,NaN,3,258
+70,29770,city_84,0.949,Female,Has relevent experience,NaN,Phd,STEM,2,<10,NaN,3,61
+71,29771,city_47,0.808,Female,Has relevent experience,Full time course,Phd,STEM,8,<10,NaN,2,123
+72,29772,city_56,0.928,NaN,Has relevent experience,Full time course,Phd,NaN,15,<10,Public Sector,2,146
+73,29773,city_27,0.804,Male,No relevent experience,Full time course,Phd,NaN,2,50-99,Public Sector,1,188
+74,29774,city_112,0.691,NaN,No relevent experience,Full time course,Graduate,Humanities,4,<10,NaN,3,55
+75,29775,city_12,0.507,Female,No relevent experience,NaN,Phd,STEM,1,100-500,NaN,2,100
+76,29776,city_109,0.747,Other,No relevent experience,no_enrollment,Graduate,STEM,14,<10,Funded Startup,2,257
+77,29777,city_140,0.55,Female,Has relevent experience,Part time course,NaN,NaN,10,<10,NaN,4,273
+78,29778,city_113,0.824,Other,No relevent experience,Full time course,NaN,Humanities,14,100-500,Pvt Ltd,4,80
+79,29779,city_84,0.899,Other,Has relevent experience,Part time course,Phd,NaN,5,10-49,Public Sector,2,226
+80,29780,city_54,0.876,NaN,Has relevent experience,NaN,Graduate,Arts,5,50-99,Pvt Ltd,3,128
+81,29781,city_54,0.8,Other,No relevent experience,NaN,Masters,Business Degree,6,NaN,Funded Startup,1,148
+82,29782,city_138,0.945,NaN,No relevent experience,no_enrollment,High School,Business Degree,12,10-49,Pvt Ltd,1,298
+83,29783,city_103,0.885,NaN,No relevent experience,Full time course,Graduate,Business Degree,14,10-49,Public Sector,3,65
+84,29784,city_118,0.727,NaN,Has relevent experience,no_enrollment,High School,Humanities,13,10-49,NaN,2,79
+85,29785,city_28,0.564,NaN,Has relevent experience,no_enrollment,Masters,NaN,5,NaN,Pvt Ltd,1,192
+86,29786,city_41,0.846,Male,No relevent experience,Full time course,Phd,Business Degree,5,<10,Funded Startup,2,298
+87,29787,city_118,0.843,NaN,Has relevent experience,NaN,NaN,Business Degree,17,100-500,Public Sector,4,48
+88,29788,city_94,0.819,NaN,No relevent experience,NaN,Masters,NaN,5,50-99,NaN,3,126
+89,29789,city_136,0.652,Male,Has relevent experience,NaN,High School,Business Degree,9,10-49,NaN,2,137
+90,29790,city_145,0.716,Other,Has relevent experience,no_enrollment,Phd,STEM,6,100-500,NaN,2,58
+91,29791,city_21,0.6,NaN,Has relevent experience,NaN,NaN,Arts,6,NaN,Public Sector,3,178
+92,29792,city_133,0.639,Female,No relevent experience,no_enrollment,High School,Humanities,15,100-500,Funded Startup,4,194
+93,29793,city_5,0.947,Male,Has relevent experience,NaN,Graduate,Business Degree,11,<10,Public Sector,4,245
+94,29794,city_38,0.842,Male,No relevent experience,Part time course,Graduate,Arts,9,10-49,Pvt Ltd,4,221
+95,29795,city_23,0.618,Male,No relevent experience,no_enrollment,NaN,Humanities,20,10-49,NaN,1,223
+96,29796,city_52,0.935,Male,No relevent experience,Part time course,Graduate,NaN,16,NaN,NaN,4,259
+97,29797,city_117,0.61,Male,Has relevent experience,no_enrollment,NaN,STEM,6,50-99,Funded Startup,1,244
+98,29798,city_24,0.916,Female,Has relevent experience,Part time course,NaN,STEM,7,100-500,NaN,3,254
+99,29799,city_93,0.802,Female,No relevent experience,no_enrollment,Phd,Arts,3,<10,Public Sector,3,36
+100,29800,city_67,0.594,Female,No relevent experience,Full time course,Phd,NaN,14,10-49,Funded Startup,3,51
+101,29801,city_107,0.752,Male,No relevent experience,Full time course,High School,NaN,15,<10,NaN,4,152
+102,29802,city_4,0.568,NaN,No relevent experience,Part time course,NaN,Humanities,7,<10,Public Sector,2,16
+103,29803,city_126,0.875,Female,Has relevent experience,no_enrollment,Masters,Arts,20,100-500,Public Sector,3,78
+104,29804,city_63,0.506,Male,Has relevent experience,Part time course,Phd,NaN,15,50-99,Funded Startup,4,141
+105,29805,city_11,0.509,Other,No relevent experience,NaN,Masters,Arts,17,<10,Funded Startup,2,196
+106,29806,city_91,0.622,Other,Has relevent experience,no_enrollment,Phd,NaN,12,<10,Public Sector,4,28
+107,29807,city_66,0.508,Male,No relevent experience,no_enrollment,Graduate,Business Degree,15,NaN,Public Sector,1,254
+108,29808,city_66,0.706,Female,Has relevent experience,Full time course,Masters,Business Degree,17,<10,NaN,2,201
+109,29809,city_44,0.685,NaN,No relevent experience,Full time course,Phd,Business Degree,8,NaN,NaN,2,61
+110,29810,city_41,0.819,Female,Has relevent experience,no_enrollment,High School,Business Degree,16,50-99,NaN,4,54
+111,29811,city_34,0.888,NaN,Has relevent experience,NaN,NaN,STEM,11,NaN,NaN,3,80
+112,29812,city_14,0.892,NaN,Has relevent experience,Part time course,Phd,Arts,18,NaN,Public Sector,1,239
+113,29813,city_85,0.763,Male,Has relevent experience,no_enrollment,High School,STEM,8,10-49,Funded Startup,4,249
+114,29814,city_93,0.864,Female,No relevent experience,Full time course,High School,STEM,15,50-99,Funded Startup,3,237
+115,29815,city_18,0.636,NaN,No relevent experience,Full time course,Phd,NaN,9,<10,Pvt Ltd,1,215
+116,29816,city_101,0.797,Female,No relevent experience,NaN,High School,Humanities,2,10-49,Funded Startup,4,38
+117,29817,city_2,0.637,Other,No relevent experience,no_enrollment,Graduate,STEM,7,50-99,Pvt Ltd,2,96
+118,29818,city_22,0.581,NaN,No relevent experience,Full time course,Phd,Humanities,11,NaN,Pvt Ltd,4,242
+119,29819,city_80,0.57,Male,Has relevent experience,no_enrollment,Masters,STEM,13,100-500,NaN,2,134
+120,29820,city_11,0.919,Female,Has relevent experience,no_enrollment,Graduate,Arts,12,NaN,Public Sector,3,86
+121,29821,city_68,0.742,Other,No relevent experience,Full time course,High School,NaN,1,NaN,Pvt Ltd,2,131
+122,29822,city_75,0.594,Female,Has relevent experience,NaN,Masters,NaN,14,NaN,Public Sector,1,286
+123,29823,city_120,0.678,Other,Has relevent experience,no_enrollment,High School,STEM,13,50-99,Pvt Ltd,4,150
+124,29824,city_115,0.624,Female,Has relevent experience,no_enrollment,High School,NaN,18,<10,NaN,4,20
+125,29825,city_68,0.556,Female,Has relevent experience,NaN,Graduate,Business Degree,2,10-49,Public Sector,1,82
+126,29826,city_118,0.655,NaN,Has relevent experience,Full time course,NaN,NaN,20,NaN,Public Sector,4,168
+127,29827,city_96,0.73,Male,Has relevent experience,Part time course,Phd,Humanities,16,10-49,Pvt Ltd,1,271
+128,29828,city_37,0.797,Female,Has relevent experience,no_enrollment,Masters,Arts,5,100-500,Funded Startup,4,234
+129,29829,city_64,0.528,NaN,No relevent experience,Full time course,Masters,Business Degree,4,100-500,Funded Startup,1,222
+130,29830,city_127,0.832,Male,No relevent experience,Full time course,Masters,Arts,2,10-49,NaN,3,91
+131,29831,city_102,0.949,Female,Has relevent experience,Full time course,Phd,STEM,9,<10,Public Sector,4,180
+132,29832,city_57,0.628,Other,Has relevent experience,Full time course,Graduate,STEM,15,100-500,Funded Startup,3,207
+133,29833,city_79,0.848,NaN,No relevent experience,Part time course,NaN,NaN,13,10-49,Public Sector,1,210
+134,29834,city_22,0.539,Male,No relevent experience,Full time course,NaN,STEM,3,<10,Pvt Ltd,4,265
+135,29835,city_67,0.787,Male,No relevent experience,Part time course,Phd,NaN,8,10-49,Pvt Ltd,3,285
+136,29836,city_129,0.886,NaN,Has relevent experience,NaN,NaN,NaN,3,50-99,NaN,1,202
+137,29837,city_110,0.831,NaN,No relevent experience,no_enrollment,NaN,STEM,4,<10,Pvt Ltd,1,224
+138,29838,city_31,0.591,Male,Has relevent experience,Part time course,Masters,Business Degree,6,100-500,Public Sector,1,150
+139,29839,city_23,0.685,Other,No relevent experience,no_enrollment,High School,Business Degree,16,50-99,Public Sector,4,132
+140,29840,city_43,0.862,Female,No relevent experience,NaN,Masters,STEM,13,NaN,Funded Startup,1,279
+141,29841,city_75,0.907,Male,No relevent experience,Part time course,Graduate,NaN,2,50-99,NaN,3,255
+142,29842,city_143,0.807,Male,No relevent experience,Part time course,High School,STEM,3,NaN,Pvt Ltd,2,10
+143,29843,city_61,0.797,Female,No relevent experience,no_enrollment,NaN,NaN,10,100-500,Pvt Ltd,4,85
+144,29844,city_140,0.692,Male,No relevent experience,no_enrollment,High School,NaN,2,50-99,Funded Startup,1,228
+145,29845,city_138,0.758,NaN,No relevent experience,no_enrollment,Graduate,Humanities,15,<10,Public Sector,2,45
+146,29846,city_149,0.758,Other,No relevent experience,Full time course,Phd,Business Degree,3,10-49,NaN,2,106
+147,29847,city_36,0.693,Male,No relevent experience,Full time course,NaN,NaN,11,<10,Public Sector,4,193
+148,29848,city_17,0.501,Female,No relevent experience,Full time course,Graduate,Humanities,9,10-49,Public Sector,3,182
+149,29849,city_143,0.586,Other,Has relevent experience,Part time course,Phd,STEM,10,NaN,Public Sector,1,260
+150,29850,city_87,0.555,Male,Has relevent experience,no_enrollment,Graduate,NaN,8,10-49,Public Sector,2,260
+151,29851,city_138,0.594,Female,Has relevent experience,no_enrollment,Masters,NaN,16,100-500,Funded Startup,1,161
+152,29852,city_37,0.89,Female,Has relevent experience,Part time course,High School,Humanities,15,<10,Public Sector,4,59
+153,29853,city_35,0.765,Male,No relevent experience,Part time course,Phd,NaN,9,50-99,NaN,2,67
+154,29854,city_39,0.804,Male,Has relevent experience,NaN,NaN,Business Degree,16,10-49,Pvt Ltd,4,237
+155,29855,city_124,0.671,NaN,No relevent experience,NaN,NaN,STEM,16,50-99,Funded Startup,3,288
+156,29856,city_135,0.781,Male,Has relevent experience,Full time course,NaN,Business Degree,14,10-49,Public Sector,1,284
+157,29857,city_95,0.774,NaN,Has relevent experience,Part time course,NaN,Humanities,8,<10,Pvt Ltd,4,258
+158,29858,city_98,0.753,NaN,Has relevent experience,Full time course,High School,Humanities,18,NaN,Public Sector,4,271
+159,29859,city_76,0.867,NaN,Has relevent experience,NaN,Masters,STEM,18,100-500,Funded Startup,3,279
+160,29860,city_64,0.745,Female,No relevent experience,Part time course,Masters,Business Degree,11,10-49,Pvt Ltd,1,163
+161,29861,city_132,0.877,NaN,No relevent experience,Full time course,Phd,STEM,13,NaN,Public Sector,1,46
+162,29862,city_143,0.642,Other,No relevent experience,Part time course,Masters,Humanities,3,50-99,Pvt Ltd,2,67
+163,29863,city_105,0.757,Male,Has relevent experience,Full time course,Graduate,STEM,3,NaN,Public Sector,2,227
+164,29864,city_128,0.88,Other,Has relevent experience,Full time course,NaN,Arts,14,<10,NaN,1,163
+165,29865,city_35,0.78,Female,No relevent experience,NaN,Masters,STEM,5,NaN,Funded Startup,1,110
+166,29866,city_78,0.926,Other,Has relevent experience,Full time course,Masters,Humanities,12,<10,NaN,2,16
+167,29867,city_79,0.8,NaN,No relevent experience,Part time course,Graduate,Humanities,11,10-49,Funded Startup,1,58
+168,29868,city_112,0.918,Female,No relevent experience,NaN,Graduate,STEM,3,100-500,Funded Startup,3,280
+169,29869,city_63,0.749,NaN,Has relevent experience,Part time course,Graduate,Humanities,13,100-500,Public Sector,4,278
+170,29870,city_88,0.625,Female,No relevent experience,Full time course,Graduate,STEM,9,10-49,NaN,1,48
+171,29871,city_109,0.793,Male,No relevent experience,no_enrollment,Graduate,Humanities,12,100-500,Pvt Ltd,3,51
+172,29872,city_4,0.671,Female,Has relevent experience,Full time course,NaN,Business Degree,8,50-99,Funded Startup,1,269
+173,29873,city_25,0.887,NaN,Has relevent experience,NaN,Phd,NaN,8,NaN,Public Sector,4,56
+174,29874,city_5,0.71,Male,Has relevent experience,NaN,High School,Humanities,5,NaN,Pvt Ltd,4,34
+175,29875,city_39,0.943,Male,Has relevent experience,NaN,Phd,Humanities,9,100-500,Funded Startup,2,87
+176,29876,city_19,0.945,NaN,Has relevent experience,Full time course,Graduate,Arts,16,100-500,Public Sector,1,240
+177,29877,city_44,0.711,NaN,Has relevent experience,Full time course,NaN,NaN,15,<10,NaN,1,139
+178,29878,city_70,0.834,Other,No relevent experience,no_enrollment,Graduate,STEM,19,NaN,Pvt Ltd,2,10
+179,29879,city_25,0.878,Other,Has relevent experience,no_enrollment,NaN,NaN,11,10-49,Pvt Ltd,1,74
+180,29880,city_37,0.812,NaN,No relevent experience,Full time course,Graduate,Humanities,12,100-500,Funded Startup,4,159
+181,29881,city_129,0.944,Other,Has relevent experience,NaN,NaN,NaN,13,NaN,Pvt Ltd,2,261
+182,29882,city_134,0.743,NaN,Has relevent experience,Full time course,Phd,Arts,17,50-99,NaN,1,266
+183,29883,city_94,0.743,Other,No relevent experience,Full time course,Graduate,Arts,4,50-99,Funded Startup,1,284
+184,29884,city_127,0.743,Female,No relevent experience,Full time course,NaN,STEM,19,50-99,Pvt Ltd,3,166
+185,29885,city_129,0.572,Other,Has relevent experience,Full time course,Masters,Humanities,3,<10,Public Sector,2,213
+186,29886,city_148,0.667,Female,Has relevent experience,no_enrollment,Phd,Humanities,11,100-500,Funded Startup,2,89
+187,29887,city_140,0.506,Female,Has relevent experience,Full time course,NaN,Humanities,10,NaN,Public Sector,4,296
+188,29888,city_83,0.735,Male,No relevent experience,no_enrollment,Phd,Humanities,20,<10,Funded Startup,3,191
+189,29889,city_18,0.95,Other,Has relevent experience,Part time course,Phd,Humanities,18,100-500,Public Sector,4,111
+190,29890,city_93,0.857,Female,Has relevent experience,Part time course,NaN,NaN,13,100-500,Public Sector,4,103
+191,29891,city_64,0.719,Male,No relevent experience,Part time course,Phd,STEM,14,100-500,Public Sector,3,61
+192,29892,city_34,0.581,Male,Has relevent experience,NaN,Phd,Business Degree,9,NaN,Public Sector,2,65
+193,29893,city_14,0.655,Male,No relevent experience,NaN,NaN,STEM,12,50-99,Funded Startup,4,46
+194,29894,city_3,0.711,Female,Has relevent experience,NaN,Graduate,STEM,14,100-500,Pvt Ltd,2,277
+195,29895,city_32,0.724,Other,Has relevent experience,no_enrollment,Phd,NaN,9,50-99,Public Sector,3,264
+196,29896,city_85,0.928,NaN,No relevent experience,Part time course,Graduate,Humanities,15,NaN,Pvt Ltd,2,213
+197,29897,city_146,0.93,Other,Has relevent experience,no_enrollment,Graduate,Humanities,5,10-49,Public Sector,3,212
+198,29898,city_106,0.928,NaN,No relevent experience,NaN,Graduate,Arts,4,<10,Pvt Ltd,1,238
+199,29899,city_31,0.868,Other,Has relevent experience,NaN,Graduate,Arts,1,100-500,Funded Startup,1,50
+200,29900,city_20,0.747,Female,No relevent experience,Part time course,NaN,NaN,15,<10,Pvt Ltd,3,28
+201,29901,city_106,0.541,Other,Has relevent experience,Part time course,Graduate,Humanities,11,<10,Public Sector,4,70
+202,29902,city_143,0.845,Other,Has relevent experience,no_enrollment,NaN,Arts,5,NaN,Funded Startup,4,166
+203,29903,city_80,0.5,NaN,No relevent experience,Full time course,Graduate,STEM,13,50-99,Funded Startup,1,167
+204,29904,city_102,0.625,Female,No relevent experience,Full time course,Masters,NaN,17,10-49,Funded Startup,4,288
+205,29905,city_66,0.784,Other,Has relevent experience,Part time course,Phd,Humanities,17,<10,Funded Startup,1,225
+206,29906,city_97,0.816,Male,No relevent experience,Part time course,Masters,NaN,10,<10,Pvt Ltd,3,277
+207,29907,city_35,0.586,Other,No relevent experience,Part time course,Phd,STEM,5,100-500,Public Sector,1,118
+208,29908,city_93,0.695,Male,Has relevent experience,Part time course,Masters,Arts,7,100-500,NaN,3,95
+209,29909,city_108,0.809,Female,Has relevent experience,NaN,High School,NaN,5,<10,NaN,3,75
+210,29910,city_149,0.713,Other,Has relevent experience,NaN,Phd,Humanities,5,100-500,Public Sector,3,66
+211,29911,city_131,0.758,NaN,Has relevent experience,no_enrollment,NaN,Business Degree,18,10-49,Pvt Ltd,3,122
+212,29912,city_89,0.689,Female,No relevent experience,Part time course,High School,STEM,3,100-500,Pvt Ltd,1,114
+213,29913,city_44,0.525,Female,No relevent experience,no_enrollment,High School,NaN,17,<10,Funded Startup,2,280
+214,29914,city_1,0.676,NaN,No relevent experience,no_enrollment,High School,Business Degree,12,100-500,Funded Startup,4,245
+215,29915,city_24,0.796,Male,Has relevent experience,Full time course,Phd,Humanities,9,50-99,Funded Startup,4,31
+216,29916,city_89,0.7,Female,Has relevent experience,no_enrollment,NaN,Humanities,17,100-500,Pvt Ltd,2,164
+217,29917,city_149,0.855,Male,No relevent experience,Part time course,High School,STEM,12,10-49,Pvt Ltd,3,134
+218,29918,city_131,0.539,Other,Has relevent experience,Full time course,Graduate,Business Degree,20,100-500,Public Sector,2,282
+219,29919,city_61,0.781,Other,Has relevent experience,no_enrollment,Graduate,NaN,16,10-49,NaN,1,242
+220,29920,city_70,0.888,Other,No relevent experience,no_enrollment,NaN,Arts,20,100-500,NaN,2,166
+221,29921,city_144,0.558,Other,Has relevent experience,Part time course,Graduate,Arts,3,<10,Pvt Ltd,1,233
+222,29922,city_101,0.919,NaN,No relevent experience,NaN,Masters,Arts,18,<10,Funded Startup,2,111
+223,29923,city_130,0.848,Female,Has relevent experience,no_enrollment,NaN,STEM,14,50-99,Pvt Ltd,4,140
+224,29924,city_117,0.878,Female,No relevent experience,no_enrollment,High School,Arts,18,50-99,Funded Startup,2,164
+225,29925,city_106,0.914,Other,No relevent experience,no_enrollment,Masters,Arts,11,50-99,Pvt Ltd,3,232
+226,29926,city_57,0.535,Male,No relevent experience,Full time course,Phd,Humanities,13,NaN,Pvt Ltd,1,234
+227,29927,city_148,0.949,Other,No relevent experience,NaN,NaN,Arts,13,10-49,Public Sector,3,299
+228,29928,city_103,0.578,Male,No relevent experience,Full time course,NaN,Business Degree,19,NaN,Funded Startup,1,233
+229,29929,city_21,0.735,Female,Has relevent experience,Part time course,Graduate,Business Degree,1,NaN,Public Sector,2,277
+230,29930,city_128,0.521,Male,Has relevent experience,NaN,Phd,NaN,15,<10,Pvt Ltd,3,30
+231,29931,city_16,0.919,Male,No relevent experience,NaN,Masters,STEM,12,NaN,NaN,4,22
+232,29932,city_79,0.675,Male,Has relevent experience,no_enrollment,High School,Humanities,17,<10,Funded Startup,3,130
+233,29933,city_24,0.876,Female,Has relevent experience,Full time course,NaN,Arts,7,NaN,Funded Startup,4,103
+234,29934,city_16,0.642,Male,No relevent experience,Part time course,Phd,STEM,1,<10,Pvt Ltd,4,192
+235,29935,city_98,0.818,Male,Has relevent experience,NaN,Graduate,Humanities,15,50-99,Pvt Ltd,2,285
+236,29936,city_109,0.604,Other,Has relevent experience,NaN,High School,NaN,15,NaN,Public Sector,4,10
+237,29937,city_109,0.868,Other,No relevent experience,no_enrollment,Masters,STEM,14,NaN,Funded Startup,1,61
+238,29938,city_46,0.888,NaN,Has relevent experience,Part time course,NaN,STEM,5,<10,Pvt Ltd,4,14
+239,29939,city_101,0.734,Female,Has relevent experience,Part time course,Graduate,NaN,12,100-500,Funded Startup,1,180
+240,29940,city_30,0.815,Other,Has relevent experience,no_enrollment,Graduate,Humanities,18,NaN,Pvt Ltd,3,97
+241,29941,city_45,0.664,Male,Has relevent experience,no_enrollment,Graduate,STEM,4,100-500,NaN,4,262
+242,29942,city_73,0.687,Other,Has relevent experience,Full time course,NaN,Arts,14,100-500,Funded Startup,4,35
+243,29943,city_42,0.674,NaN,No relevent experience,NaN,High School,STEM,11,10-49,NaN,3,149
+244,29944,city_67,0.82,Female,Has relevent experience,no_enrollment,High School,Arts,6,100-500,NaN,2,212
+245,29945,city_127,0.879,Female,Has relevent experience,NaN,Graduate,NaN,9,NaN,NaN,4,198
+246,29946,city_21,0.78,Other,Has relevent experience,NaN,Masters,NaN,13,NaN,Public Sector,3,219
+247,29947,city_63,0.628,Other,No relevent experience,NaN,Graduate,Humanities,6,NaN,Pvt Ltd,3,253
+248,29948,city_115,0.648,Male,Has relevent experience,Full time course,Graduate,NaN,6,NaN,Funded Startup,4,245
+249,29949,city_17,0.801,NaN,No relevent experience,NaN,NaN,NaN,2,50-99,NaN,1,223
+250,29950,city_57,0.913,Other,No relevent experience,Full time course,NaN,STEM,13,10-49,Public Sector,1,186
+251,29951,city_82,0.703,Female,No relevent experience,Full time course,Graduate,STEM,18,NaN,Public Sector,1,281
+252,29952,city_24,0.772,Other,Has relevent experience,Part time course,NaN,STEM,9,10-49,NaN,1,262
+253,29953,city_18,0.891,NaN,Has relevent experience,NaN,NaN,Humanities,19,NaN,Pvt Ltd,1,56
+254,29954,city_52,0.698,Male,Has relevent experience,Full time course,High School,NaN,10,10-49,Public Sector,1,12
+255,29955,city_28,0.505,Other,Has relevent experience,Part time course,NaN,Humanities,19,50-99,Public Sector,1,222
+256,29956,city_65,0.504,Other,Has relevent experience,Full time course,High School,Arts,16,<10,NaN,3,268
+257,29957,city_133,0.636,Female,Has relevent experience,Part time course,NaN,NaN,20,100-500,Funded Startup,1,123
+258,29958,city_6,0.76,Female,Has relevent experience,Full time course,NaN,Arts,4,50-99,Pvt Ltd,4,164
+259,29959,city_51,0.923,Male,No relevent experience,no_enrollment,NaN,STEM,13,10-49,NaN,2,31
+260,29960,city_99,0.714,Female,No relevent experience,Full time course,Graduate,Humanities,8,<10,Pvt Ltd,4,157
+261,29961,city_81,0.895,Female,Has relevent experience,NaN,NaN,STEM,1,<10,NaN,3,15
+262,29962,city_135,0.623,Male,No relevent experience,Full time course,High School,Arts,20,10-49,Public Sector,4,191
+263,29963,city_35,0.663,Other,No relevent experience,Full time course,High School,Arts,8,<10,NaN,4,105
+264,29964,city_23,0.866,NaN,No relevent experience,Full time course,NaN,Business Degree,15,50-99,Funded Startup,2,246
+265,29965,city_53,0.843,Male,No relevent experience,no_enrollment,Graduate,Arts,4,100-500,Funded Startup,2,146
+266,29966,city_29,0.806,Other,Has relevent experience,Full time course,Masters,Arts,14,50-99,NaN,2,47
+267,29967,city_117,0.891,Female,No relevent experience,Part time course,NaN,Humanities,9,NaN,Public Sector,4,151
+268,29968,city_58,0.844,Other,Has relevent experience,no_enrollment,High School,NaN,16,NaN,Public Sector,1,274
+269,29969,city_137,0.582,Other,No relevent experience,NaN,Masters,Business Degree,17,50-99,NaN,4,145
+270,29970,city_26,0.854,Other,No relevent experience,Part time course,Masters,Arts,9,10-49,Pvt Ltd,4,96
+271,29971,city_33,0.837,Female,No relevent experience,no_enrollment,Phd,STEM,5,100-500,NaN,2,39
+272,29972,city_91,0.775,Male,Has relevent experience,NaN,Phd,STEM,3,NaN,Funded Startup,3,39
+273,29973,city_111,0.716,Other,Has relevent experience,Full time course,Graduate,STEM,13,<10,Pvt Ltd,1,253
+274,29974,city_127,0.692,Male,Has relevent experience,Part time course,Masters,STEM,6,<10,Funded Startup,3,12
+275,29975,city_130,0.736,Female,No relevent experience,NaN,NaN,Humanities,14,NaN,Public Sector,1,46
+276,29976,city_54,0.84,NaN,No relevent experience,NaN,Phd,Humanities,13,50-99,NaN,4,220
+277,29977,city_87,0.798,Male,No relevent experience,no_enrollment,High School,Business Degree,3,50-99,NaN,3,281
+278,29978,city_45,0.842,NaN,Has relevent experience,no_enrollment,Graduate,Business Degree,3,50-99,Funded Startup,4,67
+279,29979,city_143,0.748,Male,Has relevent experience,Part time course,Graduate,Business Degree,18,10-49,Funded Startup,1,81
+280,29980,city_44,0.707,Male,No relevent experience,NaN,NaN,STEM,15,100-500,Pvt Ltd,1,22
+281,29981,city_58,0.765,NaN,Has relevent experience,Full time course,Phd,Arts,18,10-49,Funded Startup,1,138
+282,29982,city_60,0.606,Female,Has relevent experience,Full time course,Phd,Humanities,19,NaN,Pvt Ltd,4,143
+283,29983,city_96,0.531,Other,No relevent experience,no_enrollment,NaN,NaN,12,<10,Pvt Ltd,3,225
+284,29984,city_139,0.58,NaN,Has relevent experience,NaN,Phd,Arts,7,10-49,Funded Startup,3,240
+285,29985,city_141,0.935,NaN,Has relevent experience,Part time course,High School,NaN,5,<10,Public Sector,3,184
+286,29986,city_5,0.938,Other,Has relevent experience,Full time course,NaN,NaN,1,10-49,Funded Startup,3,63
+287,29987,city_116,0.83,NaN,Has relevent experience,Full time course,Graduate,NaN,10,NaN,NaN,1,221
+288,29988,city_3,0.834,Female,Has relevent experience,NaN,Masters,Business Degree,6,50-99,Pvt Ltd,3,203
+289,29989,city_67,0.832,Other,No relevent experience,no_enrollment,High School,Arts,12,NaN,Pvt Ltd,2,58
+290,29990,city_64,0.758,Male,No relevent experience,Part time course,NaN,NaN,7,10-49,NaN,4,247
+291,29991,city_50,0.713,Male,No relevent experience,no_enrollment,High School,Business Degree,2,NaN,NaN,2,36
+292,29992,city_111,0.915,NaN,Has relevent experience,NaN,Graduate,Arts,5,50-99,NaN,2,219
+293,29993,city_76,0.553,NaN,Has relevent experience,NaN,High School,Arts,7,<10,Public Sector,2,63
+294,29994,city_145,0.675,Other,Has relevent experience,Full time course,High School,Humanities,12,NaN,Public Sector,2,169
+295,29995,city_142,0.854,Male,No relevent experience,no_enrollment,NaN,Arts,11,50-99,Funded Startup,3,205
+296,29996,city_77,0.76,Female,Has relevent experience,NaN,NaN,Business Degree,13,NaN,NaN,1,270
+297,29997,city_25,0.61,NaN,No relevent experience,no_enrollment,High School,Humanities,5,100-500,NaN,3,200
+298,29998,city_74,0.838,Male,Has relevent experience,NaN,Graduate,Arts,13,10-49,Pvt Ltd,4,146
+299,29999,city_106,0.807,NaN,Has relevent experience,Full time course,Masters,Arts,20,NaN,Public Sector,4,73
+300,30000,city_70,0.849,Male,Has relevent experience,no_enrollment,Phd,Business Degree,19,<10,Pvt Ltd,2,19
+301,30001,city_132,0.619,NaN,Has relevent experience,Full time course,Masters,Humanities,16,<10,Pvt Ltd,1,92
+302,30002,city_17,0.813,NaN,No relevent experience,Full time course,High School,STEM,8,100-500,Public Sector,2,41
+303,30003,city_20,0.862,Male,No relevent experience,no_enrollment,Graduate,Arts,7,NaN,Pvt Ltd,4,113
+304,30004,city_61,0.744,NaN,No relevent experience,Part time course,NaN,Humanities,7,50-99,NaN,1,214
+305,30005,city_75,0.908,NaN,No relevent experience,no_enrollment,NaN,STEM,1,<10,Pvt Ltd,1,255
+306,30006,city_137,0.833,NaN,Has relevent experience,Full time course,NaN,NaN,9,<10,Pvt Ltd,4,146
+307,30007,city_146,0.544,Other,No relevent experience,Part time course,High School,Business Degree,9,NaN,NaN,2,159
+308,30008,city_48,0.656,NaN,Has relevent experience,no_enrollment,High School,Business Degree,13,50-99,Public Sector,2,207
+309,30009,city_53,0.647,Male,No relevent experience,Full time course,High School,Humanities,14,50-99,Public Sector,1,58
+310,30010,city_44,0.785,Other,No relevent experience,Full time course,NaN,Business Degree,9,<10,Pvt Ltd,4,25
+311,30011,city_89,0.921,Female,Has relevent experience,NaN,High School,NaN,17,50-99,NaN,3,102
+312,30012,city_114,0.549,Male,No relevent experience,Full time course,Masters,NaN,10,NaN,Funded Startup,2,68
+313,30013,city_32,0.501,Other,No relevent experience,Full time course,NaN,Arts,1,10-49,Pvt Ltd,1,137
+314,30014,city_103,0.606,Male,No relevent experience,NaN,Phd,Humanities,15,NaN,NaN,2,94
+315,30015,city_66,0.636,NaN,No relevent experience,Full time course,High School,NaN,6,<10,NaN,1,231
+316,30016,city_38,0.561,Female,No relevent experience,no_enrollment,High School,Business Degree,4,<10,Public Sector,3,198
+317,30017,city_53,0.872,Male,No relevent experience,Full time course,Phd,Business Degree,8,NaN,Pvt Ltd,3,80
+318,30018,city_82,0.761,Other,Has relevent experience,Full time course,NaN,Humanities,10,100-500,Pvt Ltd,4,299
+319,30019,city_41,0.602,Female,Has relevent experience,Full time course,NaN,Arts,18,10-49,Pvt Ltd,1,184
+320,30020,city_9,0.611,Other,No relevent experience,NaN,High School,Business Degree,19,NaN,NaN,2,252
+321,30021,city_59,0.854,Female,No relevent experience,NaN,Masters,NaN,13,NaN,Funded Startup,4,158
+322,30022,city_57,0.88,Female,Has relevent experience,Part time course,Phd,NaN,4,NaN,Pvt Ltd,1,13
+323,30023,city_37,0.695,Male,Has relevent experience,Full time course,High School,Business Degree,14,50-99,Public Sector,2,198
+324,30024,city_13,0.655,NaN,Has relevent experience,Part time course,NaN,Business Degree,12,100-500,Pvt Ltd,1,249
+325,30025,city_117,0.844,Female,Has relevent experience,NaN,High School,Business Degree,12,50-99,NaN,2,249
+326,30026,city_92,0.634,Female,No relevent experience,Full time course,NaN,NaN,3,NaN,Pvt Ltd,2,146
+327,30027,city_116,0.856,Other,Has relevent experience,Full time course,High School,STEM,16,50-99,Public Sector,2,23
+328,30028,city_27,0.556,Male,Has relevent experience,Part time course,Phd,Business Degree,9,<10,Pvt Ltd,4,152
+329,30029,city_4,0.758,Female,Has relevent experience,no_enrollment,High School,Arts,9,<10,NaN,1,126
+330,30030,city_4,0.758,Other,Has relevent experience,Part time course,High School,NaN,1,50-99,Pvt Ltd,1,104
+331,30031,city_119,0.532,Male,Has relevent experience,no_enrollment,NaN,Arts,1,10-49,NaN,4,177
+332,30032,city_143,0.718,NaN,No relevent experience,Part time course,Phd,Humanities,20,50-99,Public Sector,1,147
+333,30033,city_45,0.531,Male,Has relevent experience,no_enrollment,High School,Arts,19,10-49,NaN,2,143
+334,30034,city_117,0.571,Other,Has relevent experience,Full time course,Graduate,NaN,14,100-500,Pvt Ltd,3,40
+335,30035,city_139,0.705,NaN,No relevent experience,Part time course,Graduate,Business Degree,2,100-500,NaN,2,114
+336,30036,city_125,0.509,Female,Has relevent experience,Part time course,Phd,Humanities,4,50-99,Pvt Ltd,4,219
+337,30037,city_91,0.705,Female,Has relevent experience,Part time course,High School,STEM,16,50-99,NaN,2,289
+338,30038,city_60,0.856,NaN,Has relevent experience,NaN,Graduate,STEM,6,50-99,NaN,3,296
+339,30039,city_149,0.534,NaN,Has relevent experience,Full time course,Phd,NaN,2,50-99,Pvt Ltd,4,99
+340,30040,city_117,0.502,Female,Has relevent experience,NaN,High School,Humanities,20,100-500,Public Sector,1,64
+341,30041,city_12,0.522,Male,No relevent experience,no_enrollment,NaN,Humanities,19,10-49,Public Sector,4,37
+342,30042,city_37,0.678,Other,No relevent experience,Full time course,Masters,Humanities,14,100-500,NaN,3,278
+343,30043,city_15,0.644,Other,Has relevent experience,Full time course,Phd,NaN,16,<10,NaN,2,294
+344,30044,city_44,0.845,NaN,Has relevent experience,Full time course,NaN,Humanities,6,100-500,Pvt Ltd,3,191
+345,30045,city_84,0.736,Male,No relevent experience,Part time course,Phd,STEM,15,10-49,NaN,3,38
+346,30046,city_47,0.796,Female,Has relevent experience,no_enrollment,Masters,Humanities,12,100-500,NaN,1,148
+347,30047,city_85,0.535,NaN,Has relevent experience,no_enrollment,Graduate,Arts,11,10-49,Funded Startup,1,242
+348,30048,city_39,0.843,Female,Has relevent experience,no_enrollment,Graduate,STEM,10,10-49,Pvt Ltd,2,50
+349,30049,city_2,0.524,Male,Has relevent experience,no_enrollment,High School,Arts,19,50-99,Public Sector,1,123
+350,30050,city_17,0.906,Male,No relevent experience,Part time course,Masters,Arts,11,100-500,NaN,4,65
+351,30051,city_8,0.603,Other,No relevent experience,NaN,NaN,Humanities,17,NaN,Pvt Ltd,3,18
+352,30052,city_122,0.542,Other,Has relevent experience,no_enrollment,Graduate,NaN,15,10-49,NaN,1,101
+353,30053,city_33,0.765,Female,No relevent experience,no_enrollment,High School,STEM,18,100-500,Pvt Ltd,4,235
+354,30054,city_68,0.825,Other,Has relevent experience,NaN,Phd,Humanities,10,<10,Pvt Ltd,4,46
+355,30055,city_92,0.661,Other,No relevent experience,no_enrollment,High School,NaN,9,10-49,Funded Startup,1,217
+356,30056,city_69,0.613,Female,Has relevent experience,no_enrollment,High School,Humanities,2,<10,Funded Startup,2,69
+357,30057,city_42,0.581,Other,Has relevent experience,Part time course,High School,STEM,12,NaN,Public Sector,2,76
+358,30058,city_109,0.526,NaN,No relevent experience,Full time course,Phd,STEM,17,100-500,Public Sector,3,176
+359,30059,city_57,0.775,Male,Has relevent experience,NaN,Graduate,Arts,19,100-500,Public Sector,2,183
+360,30060,city_116,0.927,Other,No relevent experience,Part time course,Phd,Humanities,17,NaN,NaN,3,227
+361,30061,city_143,0.747,Female,No relevent experience,Full time course,Masters,Humanities,11,10-49,NaN,3,268
+362,30062,city_68,0.801,Female,No relevent experience,Part time course,Phd,STEM,6,50-99,Pvt Ltd,3,74
+363,30063,city_39,0.595,NaN,No relevent experience,no_enrollment,Phd,Arts,1,10-49,NaN,4,173
+364,30064,city_113,0.685,Male,No relevent experience,Part time course,Phd,NaN,20,<10,Public Sector,3,293
+365,30065,city_108,0.751,NaN,No relevent experience,Full time course,Graduate,NaN,2,100-500,Pvt Ltd,3,200
+366,30066,city_21,0.733,Male,Has relevent experience,NaN,Phd,Humanities,11,50-99,Public Sector,1,229
+367,30067,city_92,0.532,Female,Has relevent experience,NaN,Masters,Arts,2,NaN,Pvt Ltd,3,15
+368,30068,city_48,0.901,NaN,Has relevent experience,NaN,Graduate,STEM,12,<10,Public Sector,3,150
+369,30069,city_51,0.937,NaN,Has relevent experience,Part time course,Graduate,STEM,5,50-99,Public Sector,3,15
+370,30070,city_129,0.555,NaN,No relevent experience,Part time course,Graduate,Business Degree,9,NaN,Pvt Ltd,2,236
+371,30071,city_59,0.868,NaN,Has relevent experience,no_enrollment,Phd,Business Degree,20,50-99,Funded Startup,4,106
+372,30072,city_80,0.689,NaN,Has relevent experience,NaN,Masters,Business Degree,18,10-49,Public Sector,2,113
+373,30073,city_34,0.704,Female,Has relevent experience,Full time course,NaN,NaN,1,10-49,Public Sector,4,37
+374,30074,city_83,0.859,Other,Has relevent experience,Part time course,Masters,Business Degree,5,<10,Funded Startup,4,169
+375,30075,city_35,0.651,Other,Has relevent experience,no_enrollment,High School,STEM,15,50-99,Funded Startup,3,138
+376,30076,city_59,0.708,Female,Has relevent experience,Part time course,High School,STEM,8,50-99,Funded Startup,1,246
+377,30077,city_114,0.724,Other,Has relevent experience,Full time course,Masters,Arts,12,NaN,NaN,1,65
+378,30078,city_110,0.832,NaN,Has relevent experience,NaN,Masters,NaN,9,<10,NaN,3,212
+379,30079,city_39,0.76,Other,Has relevent experience,no_enrollment,Masters,NaN,10,<10,NaN,3,68
+380,30080,city_122,0.828,Female,Has relevent experience,Full time course,Masters,NaN,6,10-49,Public Sector,4,237
+381,30081,city_131,0.513,Other,No relevent experience,no_enrollment,Graduate,STEM,12,50-99,Funded Startup,4,260
+382,30082,city_84,0.736,Male,Has relevent experience,Full time course,Masters,NaN,1,100-500,Public Sector,2,192
+383,30083,city_106,0.764,Female,Has relevent experience,NaN,Graduate,NaN,7,100-500,Public Sector,3,270
+384,30084,city_100,0.574,Male,No relevent experience,Part time course,NaN,Humanities,17,50-99,Funded Startup,4,29
+385,30085,city_111,0.821,Male,Has relevent experience,Full time course,NaN,Humanities,15,100-500,NaN,4,95
+386,30086,city_49,0.592,NaN,No relevent experience,no_enrollment,Masters,STEM,6,50-99,Funded Startup,1,34
+387,30087,city_1,0.645,NaN,No relevent experience,Part time course,NaN,NaN,16,10-49,Public Sector,1,134
+388,30088,city_82,0.886,Other,Has relevent experience,no_enrollment,NaN,Humanities,16,10-49,Pvt Ltd,4,221
+389,30089,city_30,0.819,Other,Has relevent experience,Full time course,Phd,STEM,6,50-99,Pvt Ltd,4,29
+390,30090,city_99,0.606,Other,Has relevent experience,no_enrollment,Masters,STEM,15,100-500,Public Sector,3,204
+391,30091,city_60,0.935,NaN,Has relevent experience,no_enrollment,Masters,Humanities,9,50-99,NaN,4,35
+392,30092,city_121,0.604,Male,No relevent experience,Part time course,Masters,Humanities,11,100-500,Funded Startup,3,190
+393,30093,city_118,0.806,NaN,Has relevent experience,no_enrollment,High School,NaN,12,10-49,Public Sector,1,260
+394,30094,city_67,0.614,NaN,No relevent experience,no_enrollment,Graduate,STEM,8,10-49,Pvt Ltd,1,209
+395,30095,city_125,0.666,Female,Has relevent experience,Full time course,Graduate,STEM,15,NaN,Funded Startup,1,41
+396,30096,city_3,0.529,Female,No relevent experience,Full time course,Phd,STEM,5,10-49,Pvt Ltd,4,178
+397,30097,city_8,0.925,Female,No relevent experience,no_enrollment,Graduate,Humanities,5,50-99,NaN,1,72
+398,30098,city_32,0.509,Other,Has relevent experience,Part time course,NaN,STEM,19,NaN,Public Sector,3,103
+399,30099,city_81,0.592,Female,Has relevent experience,Full time course,Phd,Arts,1,50-99,Public Sector,4,146
+400,30100,city_78,0.704,NaN,No relevent experience,no_enrollment,NaN,STEM,3,50-99,Pvt Ltd,4,223
+401,30101,city_106,0.941,Female,Has relevent experience,Part time course,Graduate,NaN,17,NaN,Pvt Ltd,3,42
+402,30102,city_119,0.945,Female,No relevent experience,NaN,Graduate,Arts,18,NaN,Funded Startup,1,281
+403,30103,city_123,0.706,NaN,Has relevent experience,Part time course,Graduate,STEM,17,<10,Pvt Ltd,3,45
+404,30104,city_87,0.513,NaN,Has relevent experience,no_enrollment,Phd,NaN,11,NaN,NaN,2,100
+405,30105,city_131,0.852,Male,Has relevent experience,Full time course,Phd,NaN,20,100-500,Pvt Ltd,4,247
+406,30106,city_132,0.893,Other,No relevent experience,NaN,Masters,NaN,5,100-500,Funded Startup,1,60
+407,30107,city_13,0.825,Male,No relevent experience,NaN,NaN,Business Degree,18,NaN,Public Sector,4,46
+408,30108,city_127,0.721,NaN,No relevent experience,Full time course,Graduate,Business Degree,1,<10,NaN,2,246
+409,30109,city_70,0.564,Female,Has relevent experience,no_enrollment,Graduate,NaN,3,NaN,Public Sector,3,256
+410,30110,city_45,0.7,Other,Has relevent experience,Full time course,High School,Humanities,14,50-99,Public Sector,4,51
+411,30111,city_94,0.643,NaN,No relevent experience,no_enrollment,Phd,Arts,19,NaN,Public Sector,1,162
+412,30112,city_127,0.755,NaN,No relevent experience,no_enrollment,Phd,NaN,15,50-99,Public Sector,3,193
+413,30113,city_116,0.671,Female,Has relevent experience,Full time course,High School,NaN,9,NaN,Pvt Ltd,4,57
+414,30114,city_123,0.625,Other,Has relevent experience,Part time course,High School,NaN,12,NaN,Funded Startup,2,154
+415,30115,city_138,0.922,Female,Has relevent experience,Part time course,High School,NaN,8,NaN,Pvt Ltd,3,95
+416,30116,city_130,0.639,Female,No relevent experience,NaN,Masters,Business Degree,6,NaN,Funded Startup,2,224
+417,30117,city_2,0.887,Female,No relevent experience,no_enrollment,High School,Arts,14,NaN,NaN,3,182
+418,30118,city_102,0.607,Other,No relevent experience,Full time course,High School,NaN,19,50-99,Public Sector,4,122
+419,30119,city_138,0.825,NaN,Has relevent experience,no_enrollment,Graduate,Arts,19,NaN,Public Sector,1,172
+420,30120,city_100,0.693,Other,Has relevent experience,NaN,NaN,Business Degree,14,100-500,NaN,1,270
+421,30121,city_74,0.941,NaN,Has relevent experience,NaN,Graduate,Humanities,2,100-500,Funded Startup,4,242
+422,30122,city_105,0.567,Female,Has relevent experience,Full time course,Phd,Business Degree,14,100-500,Pvt Ltd,3,284
+423,30123,city_76,0.654,Male,Has relevent experience,Full time course,Phd,STEM,8,NaN,Pvt Ltd,3,44
+424,30124,city_38,0.849,NaN,Has relevent experience,NaN,High School,NaN,15,100-500,NaN,3,163
+425,30125,city_43,0.521,NaN,No relevent experience,no_enrollment,Phd,Arts,19,50-99,Public Sector,4,242
+426,30126,city_110,0.536,Other,Has relevent experience,Part time course,Phd,Arts,3,NaN,Pvt Ltd,4,62
+427,30127,city_6,0.648,Female,No relevent experience,no_enrollment,Masters,STEM,18,10-49,Public Sector,4,152
+428,30128,city_58,0.76,Male,Has relevent experience,Part time course,High School,Arts,1,<10,Public Sector,2,240
+429,30129,city_76,0.69,NaN,Has relevent experience,Part time course,NaN,Humanities,3,NaN,Public Sector,4,100
+430,30130,city_44,0.756,NaN,Has relevent experience,Full time course,Masters,Business Degree,1,NaN,Public Sector,3,198
+431,30131,city_80,0.573,Other,Has relevent experience,Full time course,Phd,Humanities,3,10-49,Public Sector,1,179
+432,30132,city_91,0.594,Other,Has relevent experience,NaN,Phd,Business Degree,15,NaN,Public Sector,3,40
+433,30133,city_51,0.553,Male,No relevent experience,Part time course,Phd,Arts,17,NaN,Public Sector,3,184
+434,30134,city_90,0.592,Male,Has relevent experience,Full time course,Graduate,Humanities,6,<10,Funded Startup,3,255
+435,30135,city_141,0.524,Male,Has relevent experience,NaN,Masters,Business Degree,2,50-99,Pvt Ltd,2,68
+436,30136,city_95,0.539,Other,Has relevent experience,no_enrollment,Masters,NaN,14,NaN,NaN,3,175
+437,30137,city_81,0.632,Other,Has relevent experience,Full time course,Phd,NaN,3,50-99,NaN,2,18
+438,30138,city_69,0.908,Male,Has relevent experience,Full time course,High School,Business Degree,6,<10,Funded Startup,4,184
+439,30139,city_42,0.584,Female,Has relevent experience,no_enrollment,Graduate,Humanities,5,50-99,Public Sector,2,256
+440,30140,city_117,0.601,Female,No relevent experience,NaN,Phd,NaN,18,10-49,NaN,2,83
+441,30141,city_13,0.624,Other,No relevent experience,Full time course,Phd,Business Degree,3,10-49,NaN,1,214
+442,30142,city_52,0.657,Male,No relevent experience,Full time course,Graduate,Business Degree,20,<10,Public Sector,2,102
+443,30143,city_44,0.713,Female,Has relevent experience,no_enrollment,High School,STEM,18,<10,Funded Startup,3,275
+444,30144,city_130,0.938,Male,No relevent experience,Full time course,High School,NaN,1,<10,NaN,3,137
+445,30145,city_94,0.508,Other,No relevent experience,no_enrollment,High School,Humanities,4,<10,Funded Startup,4,42
+446,30146,city_131,0.586,Female,Has relevent experience,Full time course,Masters,NaN,6,50-99,NaN,4,226
+447,30147,city_21,0.802,NaN,Has relevent experience,NaN,NaN,Arts,1,NaN,Pvt Ltd,4,163
+448,30148,city_3,0.573,Male,No relevent experience,Part time course,Phd,STEM,2,10-49,Funded Startup,1,44
+449,30149,city_114,0.669,Male,Has relevent experience,Part time course,High School,Business Degree,4,10-49,Pvt Ltd,4,127
+450,30150,city_29,0.731,NaN,Has relevent experience,Full time course,High School,STEM,11,<10,Public Sector,4,168
+451,30151,city_11,0.863,Male,No relevent experience,Full time course,NaN,NaN,7,50-99,Public Sector,2,285
+452,30152,city_11,0.726,Female,No relevent experience,Full time course,Masters,Humanities,5,100-500,Pvt Ltd,3,204
+453,30153,city_95,0.906,Female,Has relevent experience,NaN,Phd,NaN,9,50-99,Public Sector,4,90
+454,30154,city_124,0.552,Female,Has relevent experience,NaN,Masters,NaN,3,100-500,Public Sector,1,150
+455,30155,city_27,0.67,NaN,Has relevent experience,no_enrollment,Masters,Humanities,11,<10,NaN,3,151
+456,30156,city_94,0.78,Other,No relevent experience,Full time course,High School,STEM,6,10-49,Funded Startup,3,277
+457,30157,city_51,0.786,Other,No relevent experience,no_enrollment,NaN,Humanities,19,<10,Public Sector,4,77
+458,30158,city_5,0.927,Female,Has relevent experience,no_enrollment,High School,NaN,11,NaN,Public Sector,4,100
+459,30159,city_37,0.694,Male,No relevent experience,Part time course,NaN,Business Degree,10,50-99,Public Sector,4,32
+460,30160,city_111,0.522,NaN,Has relevent experience,Full time course,Graduate,NaN,6,10-49,Public Sector,1,20
+461,30161,city_139,0.68,Male,Has relevent experience,Full time course,High School,Business Degree,8,100-500,Pvt Ltd,3,79
+462,30162,city_149,0.767,NaN,Has relevent experience,no_enrollment,High School,Arts,18,10-49,Funded Startup,4,19
+463,30163,city_95,0.949,Male,Has relevent experience,no_enrollment,NaN,NaN,13,50-99,Funded Startup,4,36
+464,30164,city_84,0.938,Male,No relevent experience,Part time course,Phd,STEM,18,50-99,Public Sector,4,105
+465,30165,city_27,0.886,Female,Has relevent experience,Part time course,High School,STEM,9,<10,Public Sector,1,180
+466,30166,city_95,0.54,Male,No relevent experience,Full time course,Graduate,STEM,10,10-49,Public Sector,1,36
+467,30167,city_66,0.739,Female,Has relevent experience,NaN,High School,NaN,11,10-49,NaN,4,77
+468,30168,city_106,0.931,Female,Has relevent experience,Part time course,High School,Humanities,10,NaN,Pvt Ltd,4,40
+469,30169,city_143,0.773,Other,No relevent experience,Full time course,Masters,Humanities,5,NaN,NaN,3,263
+470,30170,city_79,0.642,NaN,Has relevent experience,Full time course,Graduate,Humanities,4,10-49,Public Sector,2,82
+471,30171,city_62,0.599,NaN,No relevent experience,Part time course,NaN,NaN,6,10-49,Funded Startup,3,277
+472,30172,city_126,0.705,Male,No relevent experience,Part time course,Phd,Arts,4,100-500,Funded Startup,2,250
+473,30173,city_89,0.918,Other,No relevent experience,NaN,Masters,Humanities,2,100-500,NaN,3,51
+474,30174,city_133,0.801,Other,No relevent experience,Part time course,Graduate,Business Degree,11,100-500,Public Sector,3,42
+475,30175,city_95,0.909,Male,No relevent experience,Full time course,Masters,STEM,7,NaN,NaN,3,171
+476,30176,city_103,0.511,Male,Has relevent experience,Full time course,High School,Arts,17,50-99,Public Sector,4,290
+477,30177,city_64,0.763,NaN,No relevent experience,Part time course,Masters,STEM,7,10-49,Pvt Ltd,1,118
+478,30178,city_125,0.684,Other,No relevent experience,Full time course,Phd,NaN,16,NaN,Funded Startup,1,88
+479,30179,city_149,0.938,Other,No relevent experience,no_enrollment,NaN,Business Degree,2,NaN,Pvt Ltd,1,13
+480,30180,city_146,0.889,NaN,No relevent experience,no_enrollment,Masters,Arts,20,NaN,NaN,2,124
+481,30181,city_94,0.921,Male,No relevent experience,Full time course,Graduate,Arts,4,10-49,Pvt Ltd,2,178
+482,30182,city_55,0.816,NaN,Has relevent experience,Full time course,Phd,Business Degree,2,100-500,NaN,1,294
+483,30183,city_126,0.815,Other,No relevent experience,no_enrollment,Phd,NaN,8,10-49,NaN,4,164
+484,30184,city_133,0.629,NaN,No relevent experience,Full time course,Phd,Humanities,5,50-99,Pvt Ltd,4,55
+485,30185,city_46,0.759,Female,No relevent experience,NaN,High School,Arts,19,50-99,NaN,2,101
+486,30186,city_5,0.823,Other,No relevent experience,Full time course,NaN,NaN,7,100-500,Public Sector,2,164
+487,30187,city_73,0.788,Other,No relevent experience,no_enrollment,High School,NaN,19,<10,Public Sector,4,266
+488,30188,city_137,0.918,NaN,No relevent experience,NaN,Graduate,NaN,4,50-99,Funded Startup,2,127
+489,30189,city_137,0.854,Female,Has relevent experience,Full time course,Graduate,Arts,9,50-99,NaN,2,282
+490,30190,city_134,0.871,Female,No relevent experience,Part time course,NaN,Arts,8,<10,Pvt Ltd,4,132
+491,30191,city_47,0.863,NaN,Has relevent experience,Part time course,High School,STEM,7,50-99,NaN,3,98
+492,30192,city_97,0.841,Female,Has relevent experience,Part time course,Graduate,Arts,18,<10,Pvt Ltd,3,132
+493,30193,city_55,0.524,Female,No relevent experience,no_enrollment,Phd,Business Degree,2,<10,Public Sector,4,132
+494,30194,city_81,0.596,Other,No relevent experience,NaN,Graduate,Arts,1,50-99,Funded Startup,2,52
+495,30195,city_53,0.521,Other,No relevent experience,Full time course,High School,Humanities,1,NaN,Funded Startup,1,43
+496,30196,city_105,0.816,NaN,No relevent experience,Part time course,Masters,Business Degree,20,100-500,Pvt Ltd,1,124
+497,30197,city_33,0.513,NaN,Has relevent experience,NaN,Phd,Business Degree,6,NaN,Funded Startup,2,240
+498,30198,city_7,0.923,Female,Has relevent experience,Part time course,Masters,STEM,20,NaN,Pvt Ltd,2,142
+499,30199,city_89,0.894,Other,No relevent experience,Part time course,NaN,NaN,10,NaN,Pvt Ltd,4,52
+500,30200,city_118,0.68,Female,No relevent experience,Part time course,High School,STEM,20,10-49,Funded Startup,3,129
+501,30201,city_26,0.726,NaN,No relevent experience,Full time course,Masters,NaN,14,10-49,NaN,1,37
+502,30202,city_49,0.864,Male,Has relevent experience,Full time course,Phd,NaN,3,<10,Funded Startup,3,163
+503,30203,city_13,0.862,NaN,Has relevent experience,NaN,Phd,Arts,12,100-500,Funded Startup,4,177
+504,30204,city_97,0.788,Other,No relevent experience,Part time course,Phd,Humanities,8,50-99,Funded Startup,1,231
+505,30205,city_94,0.807,Male,Has relevent experience,NaN,Phd,STEM,4,50-99,Public Sector,3,55
+506,30206,city_78,0.803,NaN,Has relevent experience,NaN,Phd,STEM,3,10-49,Public Sector,1,217
+507,30207,city_21,0.781,Male,No relevent experience,no_enrollment,High School,Business Degree,5,50-99,Public Sector,1,151
+508,30208,city_116,0.808,Other,No relevent experience,Full time course,High School,Arts,12,50-99,Pvt Ltd,1,207
+509,30209,city_85,0.92,Female,No relevent experience,NaN,Masters,Business Degree,15,100-500,Public Sector,2,225
+510,30210,city_63,0.683,Male,Has relevent experience,Full time course,NaN,Arts,19,10-49,NaN,3,61
+511,30211,city_118,0.778,NaN,Has relevent experience,no_enrollment,Phd,Business Degree,13,NaN,Pvt Ltd,1,230
+512,30212,city_29,0.528,NaN,No relevent experience,no_enrollment,High School,Humanities,5,10-49,Funded Startup,1,72
+513,30213,city_52,0.516,Other,Has relevent experience,Part time course,Phd,NaN,7,100-500,NaN,2,104
+514,30214,city_48,0.793,Other,Has relevent experience,no_enrollment,NaN,NaN,8,<10,Pvt Ltd,2,200
+515,30215,city_29,0.515,Other,No relevent experience,Full time course,Graduate,Humanities,3,<10,Funded Startup,4,99
+516,30216,city_109,0.515,Other,No relevent experience,Part time course,NaN,Business Degree,16,<10,Pvt Ltd,4,98
+517,30217,city_19,0.754,NaN,Has relevent experience,Full time course,NaN,Arts,6,50-99,Pvt Ltd,1,206
+518,30218,city_90,0.639,Male,No relevent experience,Part time course,Graduate,NaN,14,NaN,Funded Startup,4,57
+519,30219,city_17,0.572,Other,No relevent experience,Full time course,NaN,STEM,6,50-99,Public Sector,1,257
+520,30220,city_67,0.58,Male,No relevent experience,no_enrollment,Masters,Business Degree,9,NaN,Public Sector,3,167
+521,30221,city_118,0.735,Female,No relevent experience,Full time course,NaN,STEM,13,NaN,Pvt Ltd,4,181
+522,30222,city_134,0.699,Female,No relevent experience,NaN,Graduate,NaN,11,10-49,Funded Startup,1,126
+523,30223,city_58,0.809,Other,Has relevent experience,Full time course,Masters,Arts,15,<10,Public Sector,2,88
+524,30224,city_89,0.704,NaN,No relevent experience,Full time course,NaN,Arts,1,NaN,Funded Startup,4,297
+525,30225,city_140,0.808,Female,Has relevent experience,NaN,High School,STEM,5,NaN,Funded Startup,2,259
+526,30226,city_3,0.93,Female,No relevent experience,NaN,Graduate,Humanities,15,<10,NaN,2,268
+527,30227,city_70,0.856,Male,Has relevent experience,Full time course,Graduate,NaN,16,<10,NaN,1,111
+528,30228,city_72,0.864,Other,Has relevent experience,NaN,High School,Humanities,15,NaN,Funded Startup,1,190
+529,30229,city_143,0.519,Female,No relevent experience,NaN,High School,Humanities,7,<10,Public Sector,2,149
+530,30230,city_128,0.832,Female,No relevent experience,NaN,Phd,Arts,5,100-500,NaN,1,19
+531,30231,city_140,0.558,Other,No relevent experience,Part time course,Masters,Humanities,17,NaN,Pvt Ltd,1,157
+532,30232,city_108,0.764,Male,No relevent experience,Part time course,Masters,Humanities,9,10-49,Pvt Ltd,1,41
+533,30233,city_121,0.581,Male,No relevent experience,no_enrollment,Phd,NaN,13,50-99,Funded Startup,2,250
+534,30234,city_12,0.809,Male,Has relevent experience,Part time course,NaN,Business Degree,17,10-49,Public Sector,3,268
+535,30235,city_116,0.83,NaN,No relevent experience,Full time course,NaN,NaN,17,<10,Funded Startup,1,270
+536,30236,city_95,0.698,NaN,No relevent experience,no_enrollment,High School,NaN,20,50-99,NaN,3,94
+537,30237,city_94,0.829,Female,Has relevent experience,Full time course,NaN,NaN,19,NaN,Funded Startup,2,51
+538,30238,city_58,0.921,Female,Has relevent experience,Full time course,NaN,Arts,7,50-99,Funded Startup,1,25
+539,30239,city_33,0.529,NaN,No relevent experience,Part time course,Masters,Arts,15,50-99,Public Sector,4,130
+540,30240,city_113,0.602,Other,Has relevent experience,NaN,Phd,STEM,7,50-99,Pvt Ltd,4,231
+541,30241,city_130,0.835,NaN,No relevent experience,Full time course,NaN,NaN,5,50-99,Pvt Ltd,3,103
+542,30242,city_1,0.654,NaN,No relevent experience,Full time course,Masters,STEM,8,10-49,NaN,2,170
+543,30243,city_113,0.727,Male,Has relevent experience,Full time course,NaN,NaN,4,100-500,NaN,4,83
+544,30244,city_31,0.662,Male,No relevent experience,NaN,Masters,STEM,3,10-49,Public Sector,4,203
+545,30245,city_36,0.734,Male,Has relevent experience,Part time course,Phd,Business Degree,13,NaN,Funded Startup,4,20
+546,30246,city_117,0.501,Female,No relevent experience,Part time course,High School,STEM,15,NaN,Funded Startup,4,130
+547,30247,city_119,0.567,Female,Has relevent experience,NaN,High School,Humanities,7,<10,Pvt Ltd,4,173
+548,30248,city_12,0.824,Female,Has relevent experience,NaN,High School,NaN,16,50-99,Public Sector,2,194
+549,30249,city_138,0.815,NaN,No relevent experience,NaN,Graduate,Business Degree,10,10-49,NaN,4,211
+550,30250,city_9,0.846,Male,Has relevent experience,no_enrollment,High School,Business Degree,7,10-49,Public Sector,1,190
+551,30251,city_147,0.56,NaN,No relevent experience,no_enrollment,Phd,Business Degree,16,100-500,Funded Startup,2,216
+552,30252,city_77,0.74,Other,Has relevent experience,NaN,Graduate,Humanities,7,<10,Funded Startup,3,158
+553,30253,city_25,0.88,Other,Has relevent experience,Full time course,Masters,Business Degree,6,10-49,Pvt Ltd,4,230
+554,30254,city_73,0.937,NaN,Has relevent experience,Part time course,Masters,Arts,5,100-500,NaN,4,276
+555,30255,city_109,0.9,NaN,Has relevent experience,Part time course,NaN,STEM,4,50-99,Public Sector,2,227
+556,30256,city_53,0.858,Other,Has relevent experience,no_enrollment,Phd,STEM,11,<10,Pvt Ltd,2,246
+557,30257,city_125,0.519,Other,No relevent experience,NaN,Masters,STEM,10,NaN,Pvt Ltd,4,62
+558,30258,city_90,0.899,Female,No relevent experience,Part time course,Graduate,STEM,19,100-500,NaN,4,126
+559,30259,city_145,0.798,Female,No relevent experience,NaN,Graduate,NaN,13,NaN,Pvt Ltd,4,136
+560,30260,city_106,0.726,Other,No relevent experience,no_enrollment,Phd,NaN,11,NaN,NaN,4,148
+561,30261,city_83,0.542,NaN,Has relevent experience,Part time course,High School,Humanities,20,50-99,Public Sector,1,229
+562,30262,city_37,0.684,Male,No relevent experience,Full time course,Masters,STEM,10,10-49,Pvt Ltd,4,213
+563,30263,city_115,0.909,Male,No relevent experience,Part time course,NaN,Business Degree,14,10-49,Funded Startup,4,20
+564,30264,city_120,0.919,Female,No relevent experience,Part time course,NaN,Humanities,13,100-500,NaN,1,211
+565,30265,city_12,0.651,Other,No relevent experience,Full time course,Phd,Arts,11,NaN,Public Sector,2,104
+566,30266,city_14,0.812,Female,Has relevent experience,Part time course,Graduate,Humanities,6,10-49,NaN,3,13
+567,30267,city_48,0.747,NaN,No relevent experience,NaN,Phd,Humanities,3,<10,Public Sector,1,48
+568,30268,city_84,0.929,Other,Has relevent experience,Full time course,Phd,NaN,1,100-500,NaN,2,293
+569,30269,city_117,0.625,Male,No relevent experience,Part time course,Graduate,Business Degree,10,NaN,Funded Startup,4,254
+570,30270,city_62,0.505,Other,No relevent experience,NaN,NaN,NaN,19,100-500,Public Sector,3,120
+571,30271,city_114,0.654,NaN,Has relevent experience,NaN,Graduate,Business Degree,1,50-99,Funded Startup,3,292
+572,30272,city_117,0.742,Male,No relevent experience,NaN,NaN,Business Degree,3,100-500,Funded Startup,1,44
+573,30273,city_77,0.724,Male,Has relevent experience,no_enrollment,Graduate,Humanities,12,50-99,NaN,1,294
+574,30274,city_118,0.762,Male,Has relevent experience,NaN,High School,Business Degree,5,10-49,Funded Startup,1,185
+575,30275,city_37,0.913,Male,Has relevent experience,Full time course,Graduate,Humanities,19,50-99,NaN,3,33
+576,30276,city_50,0.697,Male,Has relevent experience,no_enrollment,NaN,NaN,3,100-500,Funded Startup,3,67
+577,30277,city_114,0.623,NaN,No relevent experience,Part time course,Phd,STEM,11,50-99,Pvt Ltd,1,283
+578,30278,city_79,0.672,NaN,No relevent experience,NaN,High School,Humanities,13,50-99,Public Sector,2,108
+579,30279,city_24,0.517,Female,Has relevent experience,NaN,High School,Humanities,14,100-500,Pvt Ltd,1,280
+580,30280,city_58,0.918,NaN,Has relevent experience,Part time course,Graduate,Business Degree,9,NaN,Pvt Ltd,1,74
+581,30281,city_5,0.871,NaN,No relevent experience,no_enrollment,Masters,Business Degree,5,50-99,Pvt Ltd,1,261
+582,30282,city_83,0.522,Female,Has relevent experience,Full time course,High School,Business Degree,8,50-99,Public Sector,4,269
+583,30283,city_146,0.586,NaN,No relevent experience,NaN,Phd,NaN,12,50-99,Pvt Ltd,4,132
+584,30284,city_57,0.722,Male,Has relevent experience,Part time course,Graduate,Business Degree,4,100-500,Pvt Ltd,3,195
+585,30285,city_137,0.837,Female,Has relevent experience,Part time course,Masters,NaN,1,<10,Public Sector,1,47
+586,30286,city_4,0.804,Male,Has relevent experience,NaN,Masters,Humanities,14,10-49,Pvt Ltd,4,265
+587,30287,city_137,0.645,Female,No relevent experience,no_enrollment,High School,STEM,20,10-49,NaN,3,22
+588,30288,city_114,0.849,NaN,Has relevent experience,Full time course,NaN,NaN,11,NaN,Public Sector,1,109
+589,30289,city_115,0.78,Other,No relevent experience,Part time course,Phd,NaN,18,50-99,NaN,2,134
+590,30290,city_38,0.949,Female,No relevent experience,no_enrollment,Masters,NaN,4,10-49,NaN,1,155
+591,30291,city_125,0.81,Other,Has relevent experience,Part time course,Phd,Humanities,14,100-500,Public Sector,4,18
+592,30292,city_140,0.632,Male,Has relevent experience,Full time course,Phd,Arts,17,<10,Pvt Ltd,3,97
+593,30293,city_143,0.563,Male,Has relevent experience,Part time course,High School,Business Degree,4,<10,NaN,2,222
+594,30294,city_48,0.934,Other,No relevent experience,NaN,Masters,Arts,13,NaN,Funded Startup,3,105
+595,30295,city_13,0.626,Male,No relevent experience,NaN,Graduate,NaN,12,100-500,Funded Startup,4,92
+596,30296,city_128,0.94,Other,Has relevent experience,NaN,Phd,STEM,7,10-49,Pvt Ltd,4,221
+597,30297,city_74,0.65,Female,No relevent experience,NaN,Graduate,Arts,15,<10,Pvt Ltd,4,44
+598,30298,city_119,0.633,NaN,Has relevent experience,Part time course,NaN,NaN,9,10-49,NaN,3,276
+599,30299,city_51,0.833,Other,Has relevent experience,Part time course,Graduate,NaN,10,50-99,Pvt Ltd,3,146
+600,30300,city_18,0.713,Male,No relevent experience,NaN,Phd,STEM,13,10-49,NaN,3,38
+601,30301,city_40,0.836,NaN,No relevent experience,no_enrollment,Phd,NaN,17,50-99,Public Sector,2,238
+602,30302,city_75,0.617,Other,Has relevent experience,no_enrollment,High School,Arts,8,NaN,Public Sector,3,225
+603,30303,city_127,0.603,Male,Has relevent experience,Full time course,Phd,NaN,14,<10,NaN,3,200
+604,30304,city_77,0.545,Other,Has relevent experience,Part time course,Phd,STEM,8,NaN,Public Sector,3,225
+605,30305,city_113,0.832,Other,Has relevent experience,Part time course,Phd,Humanities,2,10-49,NaN,2,140
+606,30306,city_129,0.855,Other,No relevent experience,NaN,Graduate,Business Degree,4,50-99,NaN,4,288
+607,30307,city_141,0.814,Female,Has relevent experience,no_enrollment,High School,Humanities,13,100-500,Funded Startup,2,294
+608,30308,city_37,0.66,Other,Has relevent experience,NaN,Masters,Humanities,18,10-49,NaN,2,201
+609,30309,city_103,0.929,Female,No relevent experience,no_enrollment,Phd,Business Degree,20,<10,Funded Startup,2,51
+610,30310,city_74,0.599,Female,No relevent experience,Part time course,High School,NaN,7,10-49,Funded Startup,4,139
+611,30311,city_109,0.674,Other,Has relevent experience,NaN,Graduate,STEM,20,10-49,NaN,4,246
+612,30312,city_4,0.906,Other,No relevent experience,NaN,NaN,STEM,17,10-49,NaN,1,92
+613,30313,city_42,0.886,NaN,No relevent experience,Full time course,Phd,STEM,5,NaN,Pvt Ltd,2,116
+614,30314,city_123,0.912,Other,No relevent experience,NaN,NaN,Business Degree,18,<10,Funded Startup,2,212
+615,30315,city_46,0.615,Female,Has relevent experience,NaN,High School,Humanities,4,100-500,NaN,3,179
+616,30316,city_44,0.665,Other,No relevent experience,no_enrollment,High School,Arts,2,50-99,Pvt Ltd,3,89
+617,30317,city_109,0.909,Female,No relevent experience,Full time course,NaN,STEM,1,100-500,Funded Startup,2,39
+618,30318,city_115,0.789,Other,Has relevent experience,no_enrollment,NaN,Business Degree,11,NaN,Funded Startup,4,28
+619,30319,city_66,0.862,Male,No relevent experience,Part time course,Phd,NaN,4,NaN,NaN,2,150
+620,30320,city_143,0.804,Female,No relevent experience,NaN,Masters,STEM,9,100-500,Pvt Ltd,3,122
+621,30321,city_107,0.704,NaN,Has relevent experience,NaN,High School,Humanities,13,<10,NaN,1,149
+622,30322,city_123,0.86,Other,No relevent experience,no_enrollment,Phd,NaN,16,100-500,NaN,1,270
+623,30323,city_41,0.528,NaN,No relevent experience,Part time course,Phd,STEM,16,10-49,NaN,2,112
+624,30324,city_17,0.701,Female,Has relevent experience,Full time course,Phd,NaN,6,<10,Funded Startup,2,256
+625,30325,city_136,0.806,NaN,No relevent experience,no_enrollment,Graduate,Business Degree,11,50-99,Pvt Ltd,3,204
+626,30326,city_75,0.888,NaN,No relevent experience,NaN,Masters,NaN,3,NaN,Pvt Ltd,1,28
+627,30327,city_82,0.677,NaN,No relevent experience,Part time course,Masters,Arts,9,NaN,Funded Startup,1,267
+628,30328,city_6,0.682,NaN,Has relevent experience,Full time course,NaN,Business Degree,16,<10,NaN,1,184
+629,30329,city_27,0.646,Other,Has relevent experience,NaN,Graduate,Arts,2,100-500,Pvt Ltd,3,240
+630,30330,city_71,0.892,NaN,No relevent experience,no_enrollment,Graduate,Humanities,18,50-99,Pvt Ltd,3,203
+631,30331,city_40,0.54,Other,No relevent experience,NaN,Phd,Business Degree,5,<10,Funded Startup,2,247
+632,30332,city_148,0.941,Female,Has relevent experience,NaN,Masters,Humanities,6,NaN,Pvt Ltd,1,266
+633,30333,city_59,0.541,Other,No relevent experience,NaN,NaN,STEM,19,50-99,Public Sector,3,70
+634,30334,city_61,0.567,Male,Has relevent experience,NaN,NaN,STEM,12,100-500,Funded Startup,1,228
+635,30335,city_79,0.539,Other,No relevent experience,Part time course,Masters,Arts,9,<10,Pvt Ltd,4,224
+636,30336,city_12,0.834,Male,No relevent experience,Full time course,NaN,NaN,18,50-99,Funded Startup,1,261
+637,30337,city_106,0.829,Other,Has relevent experience,Full time course,Phd,Business Degree,4,<10,Pvt Ltd,2,213
+638,30338,city_31,0.691,NaN,Has relevent experience,NaN,High School,Humanities,1,50-99,NaN,1,70
+639,30339,city_104,0.698,NaN,Has relevent experience,no_enrollment,High School,Humanities,20,100-500,Funded Startup,4,123
+640,30340,city_3,0.853,Other,No relevent experience,Part time course,NaN,Humanities,10,<10,Funded Startup,4,37
+641,30341,city_15,0.575,Female,No relevent experience,no_enrollment,High School,Business Degree,7,10-49,Pvt Ltd,2,95
+642,30342,city_116,0.714,Other,No relevent experience,NaN,Masters,Humanities,11,NaN,Funded Startup,3,88
+643,30343,city_20,0.604,Male,Has relevent experience,no_enrollment,High School,NaN,9,50-99,NaN,4,262
+644,30344,city_46,0.83,Other,Has relevent experience,Full time course,High School,Arts,20,NaN,Public Sector,2,19
+645,30345,city_61,0.724,Other,Has relevent experience,no_enrollment,High School,Humanities,11,50-99,Public Sector,3,296
+646,30346,city_123,0.934,Male,Has relevent experience,Full time course,NaN,Arts,11,NaN,Public Sector,2,115
+647,30347,city_51,0.915,Female,Has relevent experience,Part time course,NaN,STEM,10,50-99,Pvt Ltd,4,292
+648,30348,city_123,0.593,NaN,No relevent experience,Full time course,Phd,STEM,4,50-99,Funded Startup,4,110
+649,30349,city_45,0.576,Other,Has relevent experience,no_enrollment,Masters,Humanities,11,<10,Public Sector,1,252
+650,30350,city_32,0.933,Other,No relevent experience,Part time course,Masters,Humanities,1,50-99,Funded Startup,2,197
+651,30351,city_76,0.551,Male,Has relevent experience,NaN,Phd,STEM,12,10-49,Funded Startup,4,287
+652,30352,city_38,0.622,Other,Has relevent experience,Full time course,Masters,NaN,19,10-49,Pvt Ltd,2,168
+653,30353,city_76,0.7,Male,Has relevent experience,Full time course,High School,Business Degree,17,10-49,Funded Startup,1,25
+654,30354,city_85,0.755,NaN,No relevent experience,Part time course,High School,STEM,19,10-49,Funded Startup,1,77
+655,30355,city_124,0.821,Male,Has relevent experience,Full time course,Graduate,NaN,16,<10,NaN,1,86
+656,30356,city_94,0.593,Other,Has relevent experience,Part time course,High School,Arts,5,10-49,Pvt Ltd,4,208
+657,30357,city_118,0.83,Other,Has relevent experience,no_enrollment,NaN,Humanities,20,NaN,Funded Startup,1,295
+658,30358,city_104,0.688,Female,No relevent experience,NaN,NaN,NaN,4,100-500,Public Sector,3,106
+659,30359,city_71,0.651,NaN,Has relevent experience,Full time course,Masters,NaN,3,NaN,Funded Startup,2,108
+660,30360,city_3,0.814,Female,Has relevent experience,Full time course,Masters,Arts,19,10-49,NaN,1,220
+661,30361,city_24,0.588,Other,Has relevent experience,NaN,Masters,STEM,12,10-49,Funded Startup,2,227
+662,30362,city_98,0.752,Other,Has relevent experience,no_enrollment,Phd,Humanities,2,10-49,NaN,1,22
+663,30363,city_25,0.614,Other,Has relevent experience,NaN,Graduate,STEM,10,10-49,Pvt Ltd,1,83
+664,30364,city_39,0.741,NaN,No relevent experience,NaN,Masters,Arts,13,NaN,Pvt Ltd,2,35
+665,30365,city_131,0.876,Male,Has relevent experience,no_enrollment,High School,Humanities,19,100-500,Funded Startup,4,223
+666,30366,city_73,0.863,Female,No relevent experience,Full time course,Phd,Business Degree,5,50-99,Funded Startup,3,247
+667,30367,city_72,0.531,NaN,Has relevent experience,Full time course,High School,STEM,4,10-49,Public Sector,1,146
+668,30368,city_18,0.905,Other,No relevent experience,Full time course,Graduate,NaN,20,NaN,Pvt Ltd,2,215
+669,30369,city_75,0.505,Male,No relevent experience,Part time course,NaN,NaN,15,50-99,Pvt Ltd,4,221
+670,30370,city_46,0.818,NaN,No relevent experience,no_enrollment,High School,NaN,4,100-500,Funded Startup,2,108
+671,30371,city_131,0.556,NaN,No relevent experience,Part time course,Masters,STEM,3,10-49,NaN,4,126
+672,30372,city_1,0.946,Female,No relevent experience,NaN,Phd,Humanities,9,NaN,Pvt Ltd,4,137
+673,30373,city_76,0.636,Other,Has relevent experience,Part time course,Phd,Humanities,19,<10,Funded Startup,3,57
+674,30374,city_29,0.831,Other,Has relevent experience,Part time course,Graduate,Humanities,16,100-500,Pvt Ltd,3,248
+675,30375,city_76,0.785,NaN,No relevent experience,Part time course,Graduate,Arts,11,100-500,Public Sector,1,16
+676,30376,city_13,0.656,NaN,No relevent experience,Full time course,Masters,Business Degree,20,NaN,NaN,2,292
+677,30377,city_100,0.867,Other,Has relevent experience,NaN,Graduate,NaN,1,NaN,Public Sector,4,74
+678,30378,city_44,0.765,Other,No relevent experience,Part time course,Masters,Business Degree,17,50-99,NaN,1,65
+679,30379,city_93,0.83,Male,Has relevent experience,Part time course,NaN,Arts,6,50-99,NaN,4,181
+680,30380,city_123,0.541,NaN,No relevent experience,NaN,Graduate,Business Degree,15,NaN,NaN,3,127
+681,30381,city_52,0.666,Other,Has relevent experience,NaN,Masters,Arts,20,10-49,Public Sector,2,167
+682,30382,city_10,0.565,NaN,Has relevent experience,NaN,Graduate,STEM,16,10-49,NaN,1,62
+683,30383,city_23,0.728,Other,No relevent experience,Full time course,Masters,STEM,16,NaN,Funded Startup,2,164
+684,30384,city_7,0.841,Female,No relevent experience,no_enrollment,High School,STEM,3,NaN,Funded Startup,1,229
+685,30385,city_38,0.648,Other,No relevent experience,NaN,Phd,Humanities,18,<10,NaN,1,27
+686,30386,city_64,0.741,NaN,No relevent experience,NaN,Graduate,Humanities,1,NaN,NaN,1,111
+687,30387,city_117,0.864,Male,No relevent experience,Part time course,Graduate,NaN,1,NaN,Funded Startup,4,132
+688,30388,city_8,0.857,Other,Has relevent experience,Full time course,Phd,Humanities,17,10-49,Public Sector,1,186
+689,30389,city_90,0.671,Male,Has relevent experience,NaN,High School,Business Degree,18,NaN,Public Sector,1,222
+690,30390,city_102,0.901,Female,No relevent experience,Part time course,Phd,STEM,7,10-49,Public Sector,3,289
+691,30391,city_23,0.716,Other,No relevent experience,no_enrollment,High School,STEM,5,50-99,NaN,2,44
+692,30392,city_56,0.659,Other,No relevent experience,Full time course,Phd,NaN,6,<10,Public Sector,3,187
+693,30393,city_69,0.917,Other,Has relevent experience,NaN,High School,Business Degree,7,100-500,Funded Startup,3,78
+694,30394,city_77,0.792,NaN,Has relevent experience,Part time course,NaN,Humanities,1,NaN,NaN,1,122
+695,30395,city_120,0.858,Other,Has relevent experience,NaN,High School,STEM,12,NaN,Pvt Ltd,1,256
+696,30396,city_30,0.685,NaN,Has relevent experience,Part time course,Graduate,Arts,11,<10,Public Sector,2,123
+697,30397,city_102,0.543,Female,Has relevent experience,no_enrollment,NaN,Humanities,8,<10,Funded Startup,4,26
+698,30398,city_139,0.578,NaN,Has relevent experience,no_enrollment,Phd,NaN,7,100-500,Public Sector,3,115
+699,30399,city_92,0.536,Other,Has relevent experience,NaN,Masters,NaN,7,NaN,Pvt Ltd,3,220
+700,30400,city_132,0.584,NaN,Has relevent experience,NaN,High School,Business Degree,20,50-99,Funded Startup,1,240
+701,30401,city_145,0.833,Other,Has relevent experience,Part time course,High School,STEM,11,NaN,NaN,1,149
+702,30402,city_141,0.837,NaN,Has relevent experience,Part time course,Graduate,Business Degree,9,50-99,Pvt Ltd,4,139
+703,30403,city_87,0.885,Female,Has relevent experience,no_enrollment,High School,Humanities,6,100-500,Public Sector,3,213
+704,30404,city_96,0.704,NaN,Has relevent experience,Full time course,High School,Humanities,5,100-500,Public Sector,2,220
+705,30405,city_129,0.647,NaN,No relevent experience,Full time course,Masters,Business Degree,19,10-49,Public Sector,2,291
+706,30406,city_32,0.847,Other,No relevent experience,NaN,Masters,STEM,6,50-99,NaN,1,236
+707,30407,city_81,0.758,Other,No relevent experience,NaN,Graduate,Arts,18,NaN,NaN,2,111
+708,30408,city_124,0.899,Female,Has relevent experience,NaN,Phd,Arts,8,50-99,Funded Startup,3,224
+709,30409,city_46,0.643,Male,Has relevent experience,Part time course,High School,Business Degree,17,100-500,Public Sector,3,22
+710,30410,city_125,0.66,Other,Has relevent experience,Part time course,Masters,Humanities,5,10-49,Funded Startup,3,64
+711,30411,city_106,0.732,NaN,No relevent experience,no_enrollment,High School,Business Degree,8,100-500,Public Sector,3,160
+712,30412,city_113,0.553,Male,Has relevent experience,NaN,High School,NaN,12,<10,Pvt Ltd,2,265
+713,30413,city_134,0.676,Male,No relevent experience,Full time course,Masters,NaN,11,100-500,Funded Startup,4,94
+714,30414,city_95,0.652,NaN,Has relevent experience,no_enrollment,High School,STEM,8,NaN,Pvt Ltd,2,207
+715,30415,city_80,0.759,Male,Has relevent experience,Part time course,NaN,Arts,6,NaN,Funded Startup,4,130
+716,30416,city_75,0.516,Female,No relevent experience,no_enrollment,Phd,Humanities,10,<10,Funded Startup,2,85
+717,30417,city_108,0.916,Male,No relevent experience,no_enrollment,Masters,NaN,12,100-500,NaN,3,225
+718,30418,city_74,0.644,Male,No relevent experience,Part time course,High School,NaN,7,NaN,Pvt Ltd,1,224
+719,30419,city_114,0.603,Male,Has relevent experience,no_enrollment,NaN,NaN,12,<10,Pvt Ltd,2,126
+720,30420,city_118,0.572,NaN,Has relevent experience,Full time course,Phd,STEM,20,100-500,Public Sector,1,254
+721,30421,city_81,0.581,NaN,Has relevent experience,Full time course,High School,Humanities,7,100-500,Public Sector,2,260
+722,30422,city_60,0.926,Other,Has relevent experience,Full time course,NaN,NaN,8,100-500,Funded Startup,4,256
+723,30423,city_24,0.726,Male,Has relevent experience,no_enrollment,NaN,NaN,6,<10,NaN,2,244
+724,30424,city_71,0.56,NaN,No relevent experience,NaN,High School,Business Degree,12,10-49,Public Sector,1,52
+725,30425,city_63,0.727,Other,Has relevent experience,NaN,NaN,Arts,12,50-99,Pvt Ltd,4,92
+726,30426,city_60,0.605,Other,Has relevent experience,Part time course,Masters,Arts,9,NaN,Funded Startup,2,79
+727,30427,city_131,0.529,Male,Has relevent experience,Part time course,Graduate,Business Degree,15,50-99,Pvt Ltd,3,104
+728,30428,city_115,0.699,NaN,Has relevent experience,Full time course,Masters,Arts,16,NaN,Public Sector,1,240
+729,30429,city_113,0.76,Other,Has relevent experience,NaN,Phd,NaN,13,10-49,Funded Startup,1,280
+730,30430,city_58,0.608,Other,No relevent experience,Part time course,NaN,NaN,7,50-99,Funded Startup,1,113
+731,30431,city_105,0.856,Other,No relevent experience,Full time course,Graduate,Arts,19,<10,Funded Startup,2,204
+732,30432,city_64,0.867,Other,Has relevent experience,Part time course,Graduate,NaN,12,<10,NaN,4,110
+733,30433,city_115,0.587,Other,Has relevent experience,Part time course,Graduate,NaN,9,NaN,Funded Startup,3,111
+734,30434,city_91,0.613,Female,No relevent experience,no_enrollment,Graduate,STEM,5,100-500,Funded Startup,1,123
+735,30435,city_4,0.502,Other,No relevent experience,NaN,NaN,Humanities,14,100-500,NaN,4,183
+736,30436,city_114,0.657,NaN,Has relevent experience,NaN,Phd,Business Degree,9,10-49,Pvt Ltd,3,64
+737,30437,city_104,0.723,NaN,No relevent experience,Full time course,Phd,Business Degree,10,NaN,NaN,1,207
+738,30438,city_14,0.573,NaN,No relevent experience,Full time course,Graduate,Humanities,14,<10,Funded Startup,2,119
+739,30439,city_53,0.809,Other,Has relevent experience,NaN,Masters,Business Degree,13,100-500,Pvt Ltd,1,177
+740,30440,city_5,0.538,NaN,Has relevent experience,no_enrollment,Phd,Humanities,4,10-49,NaN,3,269
+741,30441,city_88,0.564,Other,No relevent experience,Full time course,Masters,Business Degree,1,NaN,Funded Startup,2,26
+742,30442,city_86,0.771,NaN,Has relevent experience,Full time course,Graduate,STEM,3,<10,Public Sector,2,44
+743,30443,city_135,0.711,Female,Has relevent experience,Full time course,High School,STEM,2,100-500,Funded Startup,4,274
+744,30444,city_125,0.853,Female,No relevent experience,Full time course,NaN,Business Degree,20,50-99,Pvt Ltd,1,114
+745,30445,city_114,0.821,NaN,No relevent experience,NaN,Masters,Arts,20,50-99,Pvt Ltd,1,281
+746,30446,city_75,0.891,NaN,Has relevent experience,no_enrollment,NaN,NaN,11,50-99,Pvt Ltd,3,238
+747,30447,city_105,0.694,Female,No relevent experience,Part time course,High School,NaN,5,10-49,Pvt Ltd,4,87
+748,30448,city_30,0.558,NaN,Has relevent experience,Part time course,Phd,Humanities,17,NaN,NaN,2,271
+749,30449,city_34,0.831,Male,No relevent experience,NaN,High School,NaN,16,10-49,Funded Startup,3,123
+750,30450,city_62,0.778,Other,No relevent experience,NaN,NaN,Arts,3,<10,Public Sector,3,297
+751,30451,city_2,0.599,NaN,No relevent experience,NaN,High School,Arts,20,100-500,Pvt Ltd,2,145
+752,30452,city_53,0.547,Female,Has relevent experience,NaN,Phd,Humanities,20,100-500,Funded Startup,3,216
+753,30453,city_38,0.739,Other,No relevent experience,Part time course,Graduate,Business Degree,6,50-99,Pvt Ltd,1,41
+754,30454,city_14,0.598,NaN,No relevent experience,Part time course,NaN,Business Degree,11,10-49,Pvt Ltd,3,193
+755,30455,city_126,0.569,Other,No relevent experience,Part time course,Masters,Arts,1,<10,Public Sector,2,68
+756,30456,city_72,0.854,Other,Has relevent experience,Full time course,Graduate,STEM,6,100-500,Pvt Ltd,4,259
+757,30457,city_72,0.62,NaN,Has relevent experience,no_enrollment,Graduate,Business Degree,8,10-49,Public Sector,1,258
+758,30458,city_131,0.834,Other,Has relevent experience,Part time course,Phd,Humanities,15,NaN,Pvt Ltd,3,144
+759,30459,city_96,0.635,Female,Has relevent experience,NaN,High School,Humanities,2,<10,Pvt Ltd,4,105
+760,30460,city_66,0.797,Male,No relevent experience,Full time course,High School,NaN,10,100-500,NaN,1,30
+761,30461,city_28,0.716,Male,Has relevent experience,no_enrollment,Phd,Business Degree,10,100-500,Pvt Ltd,4,15
+762,30462,city_23,0.817,NaN,Has relevent experience,no_enrollment,Graduate,Arts,4,<10,Pvt Ltd,2,158
+763,30463,city_65,0.777,NaN,No relevent experience,Part time course,Masters,Humanities,14,100-500,Pvt Ltd,1,232
+764,30464,city_2,0.76,Female,Has relevent experience,NaN,Phd,NaN,3,50-99,NaN,3,88
+765,30465,city_115,0.772,Male,Has relevent experience,Part time course,Masters,Business Degree,11,<10,Pvt Ltd,2,135
+766,30466,city_147,0.888,Female,Has relevent experience,Full time course,Phd,STEM,4,100-500,Pvt Ltd,4,251
+767,30467,city_64,0.71,Male,Has relevent experience,Full time course,High School,Business Degree,13,NaN,NaN,4,268
+768,30468,city_30,0.794,Female,No relevent experience,Part time course,High School,Business Degree,3,100-500,NaN,1,66
+769,30469,city_101,0.703,Male,Has relevent experience,no_enrollment,NaN,Business Degree,8,10-49,Funded Startup,2,289
+770,30470,city_43,0.728,Male,No relevent experience,Part time course,Phd,STEM,19,100-500,Funded Startup,4,128
+771,30471,city_53,0.655,Other,Has relevent experience,Full time course,NaN,Arts,10,50-99,Public Sector,1,257
+772,30472,city_101,0.922,Male,No relevent experience,no_enrollment,NaN,Business Degree,19,50-99,Pvt Ltd,3,22
+773,30473,city_87,0.623,Other,Has relevent experience,Full time course,High School,Humanities,16,NaN,NaN,1,205
+774,30474,city_62,0.571,Female,No relevent experience,no_enrollment,Phd,Humanities,8,100-500,NaN,2,206
+775,30475,city_20,0.549,Male,No relevent experience,NaN,Graduate,Business Degree,12,50-99,Funded Startup,1,57
+776,30476,city_126,0.641,Male,No relevent experience,no_enrollment,Masters,Arts,2,100-500,Pvt Ltd,3,293
+777,30477,city_106,0.535,Other,No relevent experience,Part time course,Masters,STEM,7,<10,Funded Startup,3,76
+778,30478,city_40,0.529,Other,No relevent experience,Part time course,NaN,Arts,5,<10,Funded Startup,2,246
+779,30479,city_76,0.784,Male,Has relevent experience,no_enrollment,High School,STEM,8,50-99,Pvt Ltd,2,41
+780,30480,city_132,0.898,NaN,Has relevent experience,NaN,Graduate,Humanities,9,10-49,Funded Startup,2,199
+781,30481,city_44,0.661,Other,Has relevent experience,Part time course,NaN,NaN,6,50-99,NaN,3,219
+782,30482,city_14,0.825,Female,No relevent experience,NaN,High School,NaN,9,NaN,Public Sector,2,187
+783,30483,city_20,0.869,Female,Has relevent experience,NaN,NaN,NaN,17,<10,Funded Startup,2,36
+784,30484,city_145,0.542,Female,Has relevent experience,Full time course,Phd,NaN,5,100-500,Public Sector,3,294
+785,30485,city_89,0.779,Female,No relevent experience,Full time course,Masters,Humanities,20,<10,NaN,2,91
+786,30486,city_123,0.636,Male,No relevent experience,NaN,Masters,Arts,1,NaN,Pvt Ltd,1,75
+787,30487,city_112,0.805,Male,Has relevent experience,Part time course,Masters,Humanities,12,10-49,Pvt Ltd,3,281
+788,30488,city_2,0.643,NaN,Has relevent experience,Part time course,Phd,Arts,19,50-99,NaN,1,250
+789,30489,city_7,0.791,Male,Has relevent experience,Full time course,High School,STEM,17,<10,Funded Startup,1,267
+790,30490,city_88,0.579,Other,Has relevent experience,Part time course,Phd,Arts,20,NaN,Pvt Ltd,3,196
+791,30491,city_103,0.619,Male,No relevent experience,NaN,High School,Business Degree,19,100-500,Public Sector,4,254
+792,30492,city_57,0.817,Female,No relevent experience,NaN,Phd,STEM,4,<10,Pvt Ltd,1,65
+793,30493,city_82,0.561,Female,No relevent experience,Part time course,Masters,Arts,14,100-500,Public Sector,4,296
+794,30494,city_81,0.906,Other,No relevent experience,Part time course,Phd,NaN,10,<10,Funded Startup,4,15
+795,30495,city_75,0.607,Male,Has relevent experience,Part time course,Phd,Humanities,15,10-49,NaN,1,124
+796,30496,city_20,0.653,Other,Has relevent experience,no_enrollment,NaN,Humanities,18,100-500,Pvt Ltd,3,39
+797,30497,city_118,0.794,Female,Has relevent experience,NaN,NaN,NaN,9,50-99,NaN,3,151
+798,30498,city_149,0.793,Female,Has relevent experience,Full time course,NaN,Humanities,16,100-500,NaN,2,222
+799,30499,city_89,0.93,NaN,Has relevent experience,Full time course,NaN,Arts,6,NaN,NaN,3,146
+800,30500,city_82,0.906,Other,No relevent experience,Full time course,Masters,NaN,5,NaN,NaN,1,37
+801,30501,city_16,0.917,NaN,Has relevent experience,NaN,Phd,STEM,2,50-99,Public Sector,1,103
+802,30502,city_11,0.632,Other,No relevent experience,NaN,Graduate,STEM,8,10-49,Funded Startup,4,92
+803,30503,city_29,0.587,Other,No relevent experience,Full time course,Graduate,STEM,17,50-99,Pvt Ltd,3,262
+804,30504,city_73,0.859,Female,No relevent experience,NaN,Graduate,Humanities,13,NaN,NaN,3,229
+805,30505,city_36,0.626,NaN,Has relevent experience,NaN,NaN,Humanities,7,<10,Pvt Ltd,1,33
+806,30506,city_45,0.858,Male,No relevent experience,Full time course,Graduate,STEM,20,NaN,Public Sector,2,228
+807,30507,city_67,0.825,Female,No relevent experience,Full time course,High School,NaN,17,50-99,Pvt Ltd,1,155
+808,30508,city_75,0.513,NaN,No relevent experience,Full time course,NaN,Arts,20,50-99,Funded Startup,4,30
+809,30509,city_6,0.916,Male,Has relevent experience,NaN,NaN,STEM,10,50-99,Pvt Ltd,4,80
+810,30510,city_43,0.554,Other,No relevent experience,Full time course,Phd,STEM,2,<10,Pvt Ltd,3,251
+811,30511,city_20,0.791,Female,No relevent experience,no_enrollment,Masters,Business Degree,11,50-99,Public Sector,3,275
+812,30512,city_8,0.94,Other,Has relevent experience,Part time course,Phd,Arts,12,<10,NaN,4,153
+813,30513,city_51,0.587,Male,No relevent experience,Full time course,Masters,Humanities,3,50-99,Funded Startup,2,97
+814,30514,city_13,0.78,NaN,No relevent experience,no_enrollment,Graduate,NaN,13,<10,Funded Startup,2,130
+815,30515,city_94,0.802,Male,No relevent experience,Full time course,Phd,Business Degree,2,NaN,Pvt Ltd,2,87
+816,30516,city_64,0.742,Male,No relevent experience,Full time course,High School,NaN,7,<10,Funded Startup,3,151
+817,30517,city_148,0.531,Male,No relevent experience,no_enrollment,High School,STEM,14,NaN,Funded Startup,2,137
+818,30518,city_85,0.799,Female,Has relevent experience,Part time course,High School,Humanities,11,100-500,Public Sector,1,209
+819,30519,city_128,0.743,NaN,No relevent experience,NaN,NaN,Humanities,2,<10,Pvt Ltd,1,264
+820,30520,city_60,0.872,Male,No relevent experience,no_enrollment,Graduate,NaN,17,10-49,Public Sector,2,98
+821,30521,city_99,0.703,Male,No relevent experience,Full time course,Masters,Arts,8,50-99,Public Sector,3,225
+822,30522,city_15,0.675,Other,No relevent experience,Part time course,High School,NaN,8,NaN,Public Sector,2,264
+823,30523,city_119,0.726,Female,Has relevent experience,no_enrollment,Phd,NaN,9,NaN,Pvt Ltd,2,62
+824,30524,city_44,0.849,Female,Has relevent experience,no_enrollment,High School,NaN,13,100-500,Funded Startup,4,239
+825,30525,city_105,0.732,NaN,No relevent experience,Full time course,NaN,Business Degree,12,10-49,Pvt Ltd,3,83
+826,30526,city_107,0.884,NaN,Has relevent experience,Full time course,Phd,STEM,12,100-500,Pvt Ltd,3,11
+827,30527,city_36,0.677,Female,Has relevent experience,Part time course,NaN,NaN,8,100-500,Funded Startup,1,272
+828,30528,city_38,0.559,Other,No relevent experience,Full time course,High School,STEM,1,NaN,NaN,3,169
+829,30529,city_1,0.85,NaN,No relevent experience,no_enrollment,NaN,Arts,9,10-49,Public Sector,1,64
+830,30530,city_46,0.554,NaN,No relevent experience,no_enrollment,High School,Business Degree,16,<10,Public Sector,3,183
+831,30531,city_7,0.512,Female,Has relevent experience,Part time course,Graduate,NaN,2,NaN,Funded Startup,4,103
+832,30532,city_67,0.796,Other,No relevent experience,Part time course,Graduate,Arts,10,<10,Pvt Ltd,4,153
+833,30533,city_94,0.537,Female,No relevent experience,no_enrollment,Graduate,Arts,16,50-99,Public Sector,2,279
+834,30534,city_148,0.623,Male,Has relevent experience,Part time course,Masters,NaN,15,100-500,Pvt Ltd,3,288
+835,30535,city_36,0.906,NaN,Has relevent experience,no_enrollment,Masters,Humanities,16,NaN,Funded Startup,1,281
+836,30536,city_43,0.673,Male,Has relevent experience,no_enrollment,NaN,Business Degree,11,10-49,NaN,3,75
+837,30537,city_132,0.564,Male,No relevent experience,Part time course,Phd,Business Degree,3,100-500,NaN,1,29
+838,30538,city_35,0.571,Other,Has relevent experience,no_enrollment,Phd,NaN,4,<10,Funded Startup,1,264
+839,30539,city_141,0.858,Female,No relevent experience,no_enrollment,Phd,NaN,12,NaN,NaN,3,275
+840,30540,city_35,0.626,Other,Has relevent experience,no_enrollment,Masters,Humanities,20,NaN,Pvt Ltd,4,79
+841,30541,city_46,0.762,Other,Has relevent experience,NaN,Graduate,Arts,2,<10,Public Sector,3,134
+842,30542,city_91,0.832,Male,Has relevent experience,Full time course,Phd,Humanities,12,100-500,Public Sector,3,64
+843,30543,city_143,0.534,Male,Has relevent experience,Full time course,Graduate,NaN,8,<10,NaN,4,268
+844,30544,city_109,0.81,Male,Has relevent experience,Full time course,Graduate,Humanities,3,100-500,Pvt Ltd,2,141
+845,30545,city_93,0.639,Female,No relevent experience,Full time course,Phd,NaN,11,NaN,NaN,4,38
+846,30546,city_20,0.687,Female,No relevent experience,NaN,Masters,Arts,12,<10,Pvt Ltd,1,85
+847,30547,city_3,0.514,NaN,No relevent experience,NaN,High School,Business Degree,13,<10,Public Sector,1,280
+848,30548,city_50,0.851,Male,Has relevent experience,Part time course,Phd,Humanities,5,NaN,Funded Startup,3,241
+849,30549,city_99,0.749,Other,No relevent experience,NaN,Masters,NaN,13,100-500,NaN,3,212
+850,30550,city_82,0.562,Male,No relevent experience,Full time course,High School,NaN,18,<10,Pvt Ltd,2,217
+851,30551,city_74,0.841,NaN,No relevent experience,NaN,Graduate,Business Degree,17,10-49,Funded Startup,3,251
+852,30552,city_66,0.932,Male,No relevent experience,NaN,NaN,NaN,5,100-500,Pvt Ltd,1,107
+853,30553,city_15,0.663,Other,Has relevent experience,NaN,Phd,Business Degree,10,100-500,Pvt Ltd,3,124
+854,30554,city_113,0.55,NaN,No relevent experience,Part time course,NaN,Arts,5,100-500,Funded Startup,3,217
+855,30555,city_95,0.799,NaN,No relevent experience,Full time course,NaN,Arts,10,<10,Pvt Ltd,2,241
+856,30556,city_101,0.598,Other,No relevent experience,NaN,Phd,NaN,1,50-99,Public Sector,3,97
+857,30557,city_117,0.732,Male,No relevent experience,Part time course,NaN,Arts,12,100-500,NaN,1,96
+858,30558,city_68,0.652,Female,No relevent experience,Part time course,NaN,STEM,3,<10,Pvt Ltd,2,39
+859,30559,city_145,0.56,Other,Has relevent experience,Part time course,High School,Arts,13,<10,NaN,1,69
+860,30560,city_66,0.543,Male,No relevent experience,no_enrollment,Masters,NaN,5,<10,NaN,4,151
+861,30561,city_141,0.767,Female,No relevent experience,NaN,NaN,Business Degree,9,NaN,Pvt Ltd,4,168
+862,30562,city_20,0.567,Female,No relevent experience,no_enrollment,NaN,Business Degree,11,<10,NaN,2,96
+863,30563,city_123,0.718,Other,Has relevent experience,Full time course,Phd,Arts,6,NaN,Funded Startup,1,234
+864,30564,city_33,0.75,NaN,Has relevent experience,Part time course,Masters,STEM,18,100-500,Funded Startup,2,218
+865,30565,city_71,0.802,Other,No relevent experience,NaN,NaN,Business Degree,12,10-49,Pvt Ltd,2,121
+866,30566,city_10,0.736,Male,No relevent experience,no_enrollment,NaN,Humanities,17,<10,Pvt Ltd,3,210
+867,30567,city_64,0.855,NaN,Has relevent experience,NaN,Masters,STEM,4,50-99,Pvt Ltd,2,163
+868,30568,city_146,0.889,Male,Has relevent experience,Part time course,Graduate,Arts,7,<10,Funded Startup,4,121
+869,30569,city_52,0.576,Other,No relevent experience,NaN,High School,Humanities,8,50-99,Public Sector,3,130
+870,30570,city_90,0.91,Female,Has relevent experience,Full time course,Phd,Business Degree,12,100-500,Public Sector,1,200
+871,30571,city_5,0.856,Other,Has relevent experience,NaN,High School,Business Degree,19,NaN,Public Sector,3,26
+872,30572,city_43,0.756,Male,Has relevent experience,Part time course,NaN,Humanities,12,<10,Pvt Ltd,4,216
+873,30573,city_126,0.932,Other,No relevent experience,Full time course,High School,Business Degree,2,100-500,Funded Startup,4,33
+874,30574,city_39,0.67,NaN,No relevent experience,Full time course,Phd,STEM,17,100-500,Pvt Ltd,1,92
+875,30575,city_54,0.875,Other,Has relevent experience,no_enrollment,Phd,NaN,15,<10,Funded Startup,3,27
+876,30576,city_58,0.875,Male,Has relevent experience,Full time course,Phd,Arts,3,<10,Public Sector,3,211
+877,30577,city_83,0.607,Male,No relevent experience,no_enrollment,Phd,NaN,9,50-99,Public Sector,3,211
+878,30578,city_40,0.822,NaN,No relevent experience,Full time course,NaN,Arts,2,10-49,Public Sector,3,36
+879,30579,city_89,0.593,Male,Has relevent experience,NaN,Masters,NaN,9,10-49,Pvt Ltd,4,13
+880,30580,city_90,0.61,Other,Has relevent experience,no_enrollment,Graduate,NaN,12,100-500,Funded Startup,3,120
+881,30581,city_65,0.605,Male,No relevent experience,NaN,Graduate,Business Degree,10,<10,Funded Startup,1,235
+882,30582,city_3,0.906,Other,Has relevent experience,Part time course,Masters,STEM,18,50-99,Funded Startup,3,119
+883,30583,city_143,0.877,Female,No relevent experience,Full time course,High School,NaN,10,50-99,NaN,2,151
+884,30584,city_64,0.63,Female,No relevent experience,no_enrollment,NaN,Business Degree,3,50-99,Public Sector,2,197
+885,30585,city_114,0.869,Female,Has relevent experience,no_enrollment,Masters,NaN,9,10-49,Pvt Ltd,2,34
+886,30586,city_76,0.896,Other,Has relevent experience,Full time course,Masters,NaN,7,10-49,Funded Startup,4,32
+887,30587,city_14,0.59,Other,No relevent experience,Part time course,Graduate,Humanities,6,10-49,Public Sector,1,233
+888,30588,city_60,0.873,Female,Has relevent experience,Part time course,Graduate,Arts,20,<10,Pvt Ltd,2,238
+889,30589,city_2,0.813,NaN,No relevent experience,Full time course,Masters,NaN,14,<10,Funded Startup,1,290
+890,30590,city_53,0.673,Male,Has relevent experience,Part time course,NaN,Business Degree,19,<10,Funded Startup,4,268
+891,30591,city_35,0.914,Male,Has relevent experience,no_enrollment,High School,NaN,14,100-500,Funded Startup,4,27
+892,30592,city_126,0.589,NaN,Has relevent experience,NaN,High School,NaN,18,50-99,Funded Startup,3,179
+893,30593,city_66,0.539,Other,Has relevent experience,NaN,Masters,Arts,19,100-500,Funded Startup,3,42
+894,30594,city_24,0.621,Female,No relevent experience,Part time course,NaN,NaN,15,<10,Pvt Ltd,1,230
+895,30595,city_90,0.525,Male,No relevent experience,Full time course,Masters,NaN,15,<10,Public Sector,4,220
+896,30596,city_143,0.54,Other,Has relevent experience,Full time course,Graduate,NaN,1,50-99,Public Sector,4,257
+897,30597,city_70,0.707,Female,No relevent experience,Part time course,High School,Arts,6,<10,Funded Startup,3,52
+898,30598,city_56,0.659,NaN,Has relevent experience,Full time course,Graduate,Arts,2,10-49,Public Sector,2,259
+899,30599,city_46,0.796,NaN,Has relevent experience,no_enrollment,NaN,STEM,11,10-49,NaN,4,198
+900,30600,city_91,0.611,Female,Has relevent experience,no_enrollment,Phd,Business Degree,16,NaN,Funded Startup,1,42
+901,30601,city_93,0.689,Male,Has relevent experience,Full time course,Masters,Humanities,9,NaN,Pvt Ltd,2,71
+902,30602,city_2,0.945,Male,No relevent experience,NaN,NaN,Humanities,19,NaN,Pvt Ltd,4,48
+903,30603,city_128,0.634,Male,Has relevent experience,no_enrollment,NaN,NaN,13,50-99,NaN,2,226
+904,30604,city_139,0.627,Other,No relevent experience,NaN,Masters,Humanities,20,50-99,Funded Startup,2,251
+905,30605,city_122,0.832,Female,Has relevent experience,NaN,Phd,Humanities,14,100-500,Public Sector,4,85
+906,30606,city_112,0.841,Female,Has relevent experience,NaN,Masters,NaN,6,100-500,Pvt Ltd,4,91
+907,30607,city_78,0.597,NaN,Has relevent experience,no_enrollment,High School,Arts,20,50-99,NaN,3,155
+908,30608,city_78,0.6,NaN,Has relevent experience,NaN,NaN,Humanities,2,<10,Pvt Ltd,2,82
+909,30609,city_27,0.735,Female,No relevent experience,Full time course,NaN,Business Degree,7,NaN,Pvt Ltd,2,190
+910,30610,city_40,0.88,Female,Has relevent experience,NaN,Masters,Business Degree,15,<10,Pvt Ltd,4,105
+911,30611,city_114,0.824,Female,Has relevent experience,Part time course,Graduate,Arts,1,<10,NaN,1,295
+912,30612,city_79,0.929,NaN,No relevent experience,NaN,Masters,Arts,6,100-500,Funded Startup,4,152
+913,30613,city_10,0.677,Other,Has relevent experience,NaN,Graduate,Business Degree,17,10-49,Pvt Ltd,2,58
+914,30614,city_9,0.839,Female,No relevent experience,NaN,Masters,Arts,5,10-49,NaN,4,287
+915,30615,city_5,0.597,Other,No relevent experience,NaN,High School,Arts,4,50-99,Funded Startup,2,291
+916,30616,city_71,0.655,Male,Has relevent experience,NaN,Masters,NaN,19,50-99,Public Sector,2,35
+917,30617,city_124,0.801,Female,No relevent experience,no_enrollment,NaN,NaN,13,100-500,Pvt Ltd,3,61
+918,30618,city_52,0.944,Male,No relevent experience,Full time course,High School,STEM,6,50-99,Funded Startup,4,256
+919,30619,city_22,0.911,NaN,No relevent experience,Full time course,Phd,STEM,9,NaN,Pvt Ltd,2,34
